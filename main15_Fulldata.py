@@ -1,14 +1,19 @@
 #動作が長いが正確性はある
-
 import os
 import json
 import requests
 import math
-from datetime import datetime
+import time
 from openai import OpenAI
+from dotenv import load_dotenv  # ★追加1: 読み込み用ライブラリ
 
-client = OpenAI()
+# .envファイルから環境変数を読み込む
+load_dotenv()  # ★追加2: これで.envの中身が有効になります
 
+# ==========================================
+# 設定
+# ==========================================
+client = OpenAI()  # これで環境変数からAPIキーを読み込み、clientが作られます
 # ================== Utility: Distance ==================
 def calc_distance(lat1, lon1, lat2, lon2):
     R = 6371000

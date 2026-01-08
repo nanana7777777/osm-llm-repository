@@ -1,12 +1,21 @@
-#ユーザーが入力した情報をタグ検索してからOSMから取ってくる
 import os
 import json
 import requests
+import math
+import time
 from openai import OpenAI
+from dotenv import load_dotenv  # ★追加1: 読み込み用ライブラリ
+
+# .envファイルから環境変数を読み込む
+load_dotenv()  # ★追加2: これで.envの中身が有効になります
 
 # ==========================================
 # 設定
 # ==========================================
+# これで .env に書いた "OPENAI_API_KEY" が自動で読み込まれます
+
+
+
 client = OpenAI()
 # コスパ重視モデル指定
 MODEL_NAME = "gpt-5-nano-2025-08-07"
