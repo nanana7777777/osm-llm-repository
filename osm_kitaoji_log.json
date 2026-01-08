@@ -1,0 +1,2121 @@
+{
+  "user_intent": "駐車場があってコーヒーが飲める場所",
+  "search_location": "北大路駅 京都府",
+  "hit_count": 201,
+  "results": [
+    {
+      "name": "スターバックス",
+      "type": "cafe",
+      "distance": "約21m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.044512,135.7584871",
+      "details": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "name:ja_rm": "Sutah-bakkusu",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "operator": "スターバックスコーヒージャパン",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking_entrance",
+      "distance": "約27m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0443279,135.7587329",
+      "details": {
+        "amenity": "parking_entrance"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約27m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0443286,135.7586957",
+      "details": {
+        "amenity": "bicycle_parking",
+        "covered": "yes",
+        "indoor": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約41m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0446933,135.7591424",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking_entrance",
+      "distance": "約47m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.044147,135.7587339",
+      "details": {
+        "amenity": "parking_entrance"
+      }
+    },
+    {
+      "name": "BANANA LIFE",
+      "type": "cafe",
+      "distance": "約61m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0448209,135.7581111",
+      "details": {
+        "amenity": "cafe",
+        "name": "BANANA LIFE"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約70m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0440058,135.759048",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約79m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0441485,135.7594184",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約83m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0446335,135.7577998",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約95m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0439959,135.7594803",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約126m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.045398,135.7577479",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約135m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0433891,135.7590565",
+      "details": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "36",
+        "covered": "no",
+        "fee": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "name": "ハンデルスベーゲン 北山店",
+      "type": "cafe",
+      "distance": "約136m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.043792,135.759865",
+      "details": {
+        "amenity": "cafe",
+        "name": "ハンデルスベーゲン 北山店"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約136m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434368,135.7581474",
+      "details": {
+        "access": "private",
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "fee": "no"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約140m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434355,135.7580391",
+      "details": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "wall_loops",
+        "capacity": "50",
+        "covered": "no",
+        "fee": "yes",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約156m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434094,135.7577405",
+      "details": {
+        "amenity": "parking",
+        "capacity": "12",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "コメダ珈琲店",
+      "type": "cafe",
+      "distance": "約182m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0461726,135.7582739",
+      "details": {
+        "amenity": "cafe",
+        "brand": "コメダ珈琲店",
+        "brand:en": "KOMEDA'S Coffee",
+        "brand:ja": "コメダ珈琲店",
+        "brand:wikidata": "Q11302679",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "コメダ珈琲店",
+        "name:en": "Komeda's Coffee",
+        "name:ja": "コメダ珈琲店",
+        "opening_hours": "Mo-Su,PH 07:00-21:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約190m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0430716,135.7597263",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約191m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434723,135.7603258",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約196m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0461057,135.7576389",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約198m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0458209,135.7571489",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約204m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434218,135.7604602",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約229m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0466172,135.7583358",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約235m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0466659,135.7591265",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約240m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0467352,135.7585765",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約251m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0466136,135.7575284",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約298m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0472449,135.7583813",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "wife&husband",
+      "type": "cafe",
+      "distance": "約303m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0434195,135.7617358",
+      "details": {
+        "amenity": "cafe",
+        "name": "wife&husband",
+        "name:ja": "wife&husband"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約306m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0432788,135.7557412",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約315m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.047226,135.757481",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約316m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0427443,135.7560491",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約323m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0474776,135.7589808",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約330m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.043242,135.7554634",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約333m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.046233,135.7556588",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約358m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0472047,135.7564285",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約365m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.045396,135.7548178",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約391m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0452504,135.7544893",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約404m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0422937,135.755241",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約411m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0471883,135.7555176",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約413m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0465819,135.7625356",
+      "details": {
+        "amenity": "parking",
+        "fee": "yes",
+        "note": "9時～16時　　17時施錠 １時間以内　300円 1時間を超え2時間以内　600円 2時間を超え3時間以内　900円 3時間を超える場合　　1,200円",
+        "operator": "京都府立植物園",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "source": "bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約425m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0468531,135.7624662",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約428m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0471821,135.755239",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約433m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0484671,135.758492",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約439m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.048349,135.7572862",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約439m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0429335,135.7543124",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約443m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0478563,135.7559532",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約453m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.048078,135.7561711",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "北大路パーキング",
+      "type": "parking",
+      "distance": "約469m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0439754,135.7638149",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "北大路パーキング"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約484m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0402429,135.7581019",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "麒麟",
+      "type": "cafe",
+      "distance": "約486m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0402088,135.758351",
+      "details": {
+        "addr:housenumber": "1-2",
+        "addr:postcode": "603-8149",
+        "addr:street": "紫明通",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "麒麟",
+        "name:en": "Coffee and Tea Kirin",
+        "opening_hours": "We-Mo 09:00-17:00",
+        "phone": "0754318020"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約490m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0483655,135.7559479",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約495m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.045977,135.7535485",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "Coffee Hazuki",
+      "type": "cafe",
+      "distance": "約499m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0401363,135.7578373",
+      "details": {
+        "addr:housenumber": "3-2",
+        "addr:postcode": "603-8149",
+        "addr:street": "紫明通",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Coffee Hazuki",
+        "opening_hours": "Mo-Sa 10:00-18:00"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約501m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0402794,135.7603891",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約501m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0416454,135.7545163",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約505m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0428852,135.7535579",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約515m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0491703,135.7579986",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約519m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0415274,135.7543885",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約526m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0486308,135.7557295",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約532m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0491903,135.757162",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約543m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0414984,135.754063",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約558m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0425484,135.7530974",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約573m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0394538,135.7579611",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約584m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0497629,135.7576684",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約586m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0419288,135.753132",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約589m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0498405,135.7594829",
+      "details": {
+        "access": "private",
+        "amenity": "parking",
+        "note": "従業員用"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約596m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0488171,135.7547019",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約600m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0495506,135.7561476",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約605m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0489417,135.7547416",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "森のカフェ",
+      "type": "cafe",
+      "distance": "約611m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0489222,135.762828",
+      "details": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "森のカフェ"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "motorcycle_parking",
+      "distance": "約613m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0457349,135.7653006",
+      "details": {
+        "amenity": "motorcycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約621m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0417085,135.7528486",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約627m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0411884,135.7531928",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約628m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.048972,135.7543733",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約634m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0426355,135.7521514",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約637m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0410055,135.7532285",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約638m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0417248,135.752622",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約657m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.042296,135.7520446",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約660m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0417203,135.7523509",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "キョウテク 紫野上鳥田町パーキング",
+      "type": "parking",
+      "distance": "約660m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0447414,135.7514574",
+      "details": {
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "キョウテク 紫野上鳥田町パーキング",
+        "source": "aerial imagery;survey",
+        "surface": "concrete"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約663m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0426496,135.7656047",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約664m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0437454,135.7514779",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約666m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0410062,135.752832",
+      "details": {
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約675m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0385382,135.7595973",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約679m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0413331,135.7523831",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "俺の珈琲",
+      "type": "cafe",
+      "distance": "約680m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0506905,135.7588288",
+      "details": {
+        "amenity": "cafe",
+        "name": "俺の珈琲"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約680m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0428168,135.7515437",
+      "details": {
+        "amenity": "parking",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約683m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0415428,135.7521804",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約684m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.046202,135.7514591",
+      "details": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "fee": "no",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "AMANO COFFEE ROASTERS",
+      "type": "cafe",
+      "distance": "約697m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.046505,135.7514221",
+      "details": {
+        "amenity": "cafe",
+        "name": "AMANO COFFEE ROASTERS",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "翡翠",
+      "type": "cafe",
+      "distance": "約697m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0410931,135.7523331",
+      "details": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "翡翠",
+        "name:ja": "翡翠",
+        "name:ja-Latn": "Hisui",
+        "outdoor_seating": "no",
+        "phone": "+81 75 491 1021"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約697m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0408436,135.7525548",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約697m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0461829,135.7513059",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "source": "Esri;GSImaps/std",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約702m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0382875,135.7595292",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約709m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0389167,135.7623152",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約713m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0413494,135.7519334",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "烏丸鞍馬口月極駐輪場",
+      "type": "bicycle_parking",
+      "distance": "約714m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0381589,135.7591095",
+      "details": {
+        "access": "permit",
+        "amenity": "bicycle_parking",
+        "covered": "yes",
+        "fee": "yes",
+        "name": "烏丸鞍馬口月極駐輪場"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約715m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0411583,135.7520471",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約717m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0419015,135.7515335",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約719m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0479409,135.7519646",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約722m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0432084,135.750954",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約723m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0497872,135.7539589",
+      "details": {
+        "access": "permissive",
+        "amenity": "parking",
+        "fee": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約726m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0510698,135.7595574",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約730m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0510504,135.7600617",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約730m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0497315,135.753749",
+      "details": {
+        "access": "permissive",
+        "amenity": "parking",
+        "fee": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約732m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.04838,135.7521457",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "鞍馬口駅前駐車場",
+      "type": "parking",
+      "distance": "約745m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378714,135.7589583",
+      "details": {
+        "amenity": "parking",
+        "capacity": "5",
+        "covered": "no",
+        "fee": "yes",
+        "name": "鞍馬口駅前駐車場",
+        "parking": "surface",
+        "source": "survey;aerial imagery",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約747m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0380713,135.756639",
+      "details": {
+        "access": "private",
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約758m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0423312,135.7508358",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "delicafeたまご京都北山",
+      "type": "fast_food",
+      "distance": "約761m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.047915,135.7660077",
+      "details": {
+        "amenity": "fast_food",
+        "fast_food": "cafeteria",
+        "name": "delicafeたまご京都北山"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約761m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0377251,135.7589311",
+      "details": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "covered": "no",
+        "fee": "no",
+        "source": "GSImaps/ort"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約775m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0465855,135.7668676",
+      "details": {
+        "amenity": "parking",
+        "surface": "gravel"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約776m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0384065,135.7627142",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約781m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378649,135.7561291",
+      "details": {
+        "access": "permit",
+        "amenity": "parking",
+        "fee": "yes",
+        "operator": "パーキング八吉",
+        "source": "GSImaps/ort;survey"
+      }
+    },
+    {
+      "name": "烏丸くらま西パーキング",
+      "type": "parking",
+      "distance": "約784m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0375796,135.7575947",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "烏丸くらま西パーキング",
+        "parking": "surface",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "黒ん坊",
+      "type": "cafe",
+      "distance": "約785m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0381766,135.7623798",
+      "details": {
+        "amenity": "cafe",
+        "name": "黒ん坊"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約787m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0490914,135.7520501",
+      "details": {
+        "access": "permissive",
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約788m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.041642,135.7508267",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "セーゾーパーキング",
+      "type": "parking",
+      "distance": "約790m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378249,135.7559751",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "セーゾーパーキング",
+        "parking": "surface",
+        "source": "survey;aerial imagery",
+        "surface": "asphalt",
+        "website": "https://concept-kyoto.com/searchs/timepark/detail/?pno=1481"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約792m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0420936,135.7505535",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約794m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0412756,135.7509694",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約794m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0493444,135.7522154",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "紫明通駐車場",
+      "type": "parking",
+      "distance": "約797m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0384834,135.754073",
+      "details": {
+        "amenity": "parking",
+        "name": "紫明通駐車場",
+        "parking": "surface",
+        "source": "Bing; survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "風良都ぱーく 45",
+      "type": "parking",
+      "distance": "約797m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378044,135.7558033",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "風良都ぱーく 45",
+        "opening_hours": "24/7",
+        "parking": "surface",
+        "source": "survey;aerial imagery",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約803m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0419155,135.750496",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "三井のリパーク",
+      "type": "parking",
+      "distance": "約806m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0500717,135.7529385",
+      "details": {
+        "amenity": "parking",
+        "brand": "三井のリパーク",
+        "brand:en": "Mitsui Repark",
+        "brand:ja": "三井のリパーク",
+        "brand:wikidata": "Q11415765",
+        "brand:wikipedia": "ja:名鉄協商",
+        "fee": "yes",
+        "name": "三井のリパーク",
+        "name:en": "Mitsui Repark",
+        "name:ja": "三井のリパーク",
+        "name:ja_rm": "Mitsui no Ripaku",
+        "operator": "三井不動産",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約806m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0403953,135.7514723",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "ほりきたパーキング",
+      "type": "parking",
+      "distance": "約814m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0497709,135.7524027",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "ほりきたパーキング",
+        "source": "Bing; survey"
+      }
+    },
+    {
+      "name": "鞍楽HOWDY専用駐車場",
+      "type": "parking",
+      "distance": "約815m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0372428,135.759094",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "鞍楽HOWDY専用駐車場",
+        "source": "GSImaps/ort;survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約817m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0402441,135.7514571",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約817m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0416417,135.7504761",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約818m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0410796,135.7507958",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約819m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0374286,135.7609288",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "京都中央信用金庫",
+      "type": "parking",
+      "distance": "約824m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0494238,135.7518652",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "京都中央信用金庫"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約824m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0516375,135.7614567",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "COFFE SHOP MAKI",
+      "type": "cafe",
+      "distance": "約826m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0493062,135.751711",
+      "details": {
+        "amenity": "cafe",
+        "name": "COFFE SHOP MAKI",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約832m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0477688,135.7669775",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約833m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0516557,135.7617068",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約836m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378221,135.7627534",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "source": "GSImaps/std;survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約843m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0451135,135.7679566",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約847m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0380474,135.7635271",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約848m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0501575,135.7523519",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "鞍楽HOWDY専用駐車場",
+      "type": "parking",
+      "distance": "約848m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.03695,135.7590617",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "鞍楽HOWDY専用駐車場",
+        "source": "GSImaps/ort;survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約851m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0384301,135.7642983",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約852m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0477897,135.7672085",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約855m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0521319,135.7604809",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約857m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.042448,135.7496499",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約859m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0373503,135.7620696",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約860m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.037257,135.7617876",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約866m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0420994,135.7677344",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約868m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0436847,135.7492323",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約870m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0451181,135.7682454",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "紫明通駐車場",
+      "type": "parking",
+      "distance": "約873m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.038288,135.7529465",
+      "details": {
+        "amenity": "parking",
+        "name": "紫明通駐車場",
+        "parking": "surface",
+        "source": "Bing; survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約873m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0523426,135.7601367",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約883m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0419081,135.7495614",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約884m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0502843,135.7519487",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約884m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0367475,135.7569861",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "トラストパーク京都学・歴彩館",
+      "type": "parking",
+      "distance": "約889m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0490413,135.7668077",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "トラストパーク京都学・歴彩館",
+        "opening_hours": "24/7",
+        "operator": "トラストパーク株式会社",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約900m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0378232,135.7641825",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約900m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0436681,135.7488808",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約901m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0371929,135.7546147",
+      "details": {
+        "amenity": "parking",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約903m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0497386,135.7510508",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "地下駐輪場",
+      "type": "bicycle_parking",
+      "distance": "約907m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.050997,135.764865",
+      "details": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "ground_slots",
+        "covered": "yes",
+        "name": "地下駐輪場",
+        "note": "地上からスロープあり。地下二階"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約907m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0413653,135.7495374",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約909m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.037032,135.7625919",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約911m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0488093,135.7672858",
+      "details": {
+        "amenity": "bicycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約914m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0389373,135.7513978",
+      "details": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "covered": "yes",
+        "fee": "no"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約915m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0506616,135.7519332",
+      "details": {
+        "amenity": "parking",
+        "source": "GSImaps/ort;GSImaps/std;Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約917m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0363558,135.7595855",
+      "details": {
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface",
+        "source": "local knowledge",
+        "source:geometry": "GSImaps/ort"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約918m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0415225,135.7493281",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "コンサートホールⅠパーキング",
+      "type": "parking",
+      "distance": "約921m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0482236,135.7677959",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity": "9",
+        "fee": "yes",
+        "name": "コンサートホールⅠパーキング",
+        "opening_hours": "24/7",
+        "operator": "（株）コンセプト",
+        "parking": "surface",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "motorcycle_parking",
+      "distance": "約923m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0489757,135.7673151",
+      "details": {
+        "amenity": "motorcycle_parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約927m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0370754,135.7542378",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約930m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0526645,135.7613316",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約931m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0506554,135.7516771",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "7",
+        "fee": "no",
+        "parking": "surface",
+        "source": "Bing;GSImaps/ort;GSImaps/std",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約931m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0387736,135.7513315",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface",
+        "source": "aerial imagery;survey",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約934m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0515955,135.76434",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約936m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.050148,135.7510059",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約937m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0361469,135.7584164",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約944m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.048015,135.7681902",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約944m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0375873,135.7646202",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "タイムズRe.Nova北山",
+      "type": "parking",
+      "distance": "約944m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0507838,135.765781",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "タイムズRe.Nova北山",
+        "opening_hours": "24/7",
+        "operator": "タイムズ",
+        "parking": "surface",
+        "start_date": "2025-10-15",
+        "supervised": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約947m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0515837,135.764629",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約952m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0527703,135.7617507",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約953m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0360071,135.7590691",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約954m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0504476,135.75106",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約954m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0522152,135.7634953",
+      "details": {
+        "amenity": "parking",
+        "parking": "rooftop"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約962m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0516054,135.7648795",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約964m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0503816,135.7508373",
+      "details": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約964m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0518096,135.7645519",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約965m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0511583,135.7656193",
+      "details": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "fee": "no"
+      }
+    },
+    {
+      "name": "Latteart Junkies Roasting Shop",
+      "type": "cafe",
+      "distance": "約973m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0381684,135.7514162",
+      "details": {
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Latteart Junkies Roasting Shop"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約979m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0503737,135.7506054",
+      "details": {
+        "access": "permissive",
+        "amenity": "parking",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約985m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0518933,135.7648097",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約986m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0408507,135.748873",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "capacity": "2",
+        "fee": "no",
+        "parking": "surface",
+        "source": "GSImaps/ort;GSImaps/std",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約987m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0516888,135.7652034",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "bicycle_parking",
+      "distance": "約992m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0408511,135.7488047",
+      "details": {
+        "access": "customers",
+        "amenity": "bicycle_parking",
+        "covered": "yes",
+        "fee": "no",
+        "source": "GSImaps/ort;GSImaps/std"
+      }
+    },
+    {
+      "name": "小川せいぞうパーキング",
+      "type": "parking",
+      "distance": "約993m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0370712,135.7527762",
+      "details": {
+        "amenity": "parking",
+        "name": "小川せいぞうパーキング",
+        "source": "survey;aerial imagery"
+      }
+    },
+    {
+      "name": "加藤眼科駐車場",
+      "type": "parking",
+      "distance": "約995m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.051082,135.7512007",
+      "details": {
+        "access": "customers",
+        "amenity": "parking",
+        "fee": "no",
+        "name": "加藤眼科駐車場"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約998m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.037918,135.7513481",
+      "details": {
+        "amenity": "parking"
+      }
+    },
+    {
+      "name": "名称なし",
+      "type": "parking",
+      "distance": "約1015m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=35.0516686,135.7657251",
+      "details": {
+        "amenity": "parking",
+        "parking": "surface"
+      }
+    }
+  ]
+}

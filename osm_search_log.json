@@ -1,0 +1,3403 @@
+{
+  "user_input": "京都駅の飲食店",
+  "search_center": "京都駅前, 塩小路通, 門前町, 東塩小路町, 下京区, 京都市, 京都府, 600-8216, 日本",
+  "hit_count": 255,
+  "results": [
+    {
+      "name": "小川珈琲",
+      "distance": "約42m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9873364,135.7587985",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "https://www.oc-creates.jp/shop/kyoto_kyotoekichuou/",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "小川珈琲",
+        "outdoor_seating": "no",
+        "source": "local knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "ナナズグリーンティー",
+      "distance": "約50m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9866806,135.7590201",
+      "details": {
+        "addr:city": "京都市",
+        "addr:province": "京都府",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "contact:website": "http://www.nanasgreentea.com/",
+        "cuisine": "coffee_shop",
+        "level": "-1",
+        "name": "ナナズグリーンティー",
+        "name:en": "nana's green tea",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "天下の焼肉 大将軍",
+      "distance": "約59m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9874692,135.7588868",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "level": "1;2;3",
+        "name": "天下の焼肉 大将軍",
+        "name:ja-Latn": "Tenka No Yakiniku Daishogun",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "name": "ドトールコーヒーショップ",
+      "distance": "約61m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9871811,135.7579842",
+      "details": {
+        "addr:city": "京都府京都市下京区",
+        "addr:street": "Porta 烏丸通塩小路下ル東塩小路町",
+        "amenity": "cafe",
+        "branch": "京都ポルタ店",
+        "brand": "ドトール",
+        "brand:en": "DOUTOR",
+        "brand:ja": "ドトール",
+        "brand:wikidata": "Q11322732",
+        "brand:wikipedia": "ja:ドトールコーヒーショップ",
+        "cuisine": "coffee_shop",
+        "level": "-1",
+        "name": "ドトールコーヒーショップ",
+        "name:en": "Doutor Coffee Shop",
+        "name:ja": "ドトールコーヒーショップ",
+        "phone": "075-343-6625",
+        "short_name": "DCS",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "京ちゃばな",
+      "distance": "約88m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.987744,135.7588908",
+      "details": {
+        "amenity": "restaurant",
+        "name": "京ちゃばな",
+        "name:en": "Kyo Chabana",
+        "name:ja": "京ちゃばな"
+      }
+    },
+    {
+      "name": "Miwaku",
+      "distance": "約92m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9877817,135.7583298",
+      "details": {
+        "amenity": "cafe",
+        "indoor": "room",
+        "level": "0",
+        "name": "Miwaku",
+        "source": "local knowledge",
+        "takeaway": "no"
+      }
+    },
+    {
+      "name": "スターバックス",
+      "distance": "約100m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9874288,135.7595765",
+      "details": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "ja:スターバックス",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約105m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9875602,135.7576893",
+      "details": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      }
+    },
+    {
+      "name": "PRONTO",
+      "distance": "約110m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9860448,135.7590123",
+      "details": {
+        "addr:city": "京都市",
+        "addr:province": "京都府",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "brand": "PRONTO",
+        "brand:en": "PRONTO",
+        "brand:ja": "プロント",
+        "brand:wikidata": "Q11336224",
+        "brand:wikipedia": "ja:プロントコーポレーション",
+        "contact:website": "https://www.pronto.co.jp/shop/detail?shopid=PR00007001&prefcode=26&freewordtext=&pageno=1&service=&shopstyle=",
+        "cuisine": "coffee_shop",
+        "level": "-1",
+        "name": "PRONTO",
+        "name:en": "PRONTO",
+        "name:ja": "プロント",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "伊藤久右衛門",
+      "distance": "約113m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9876627,135.7576837",
+      "details": {
+        "addr:housenumber": "579",
+        "addr:street": "東岩塩小路町",
+        "amenity": "cafe",
+        "cuisine": "tea",
+        "name": "伊藤久右衛門",
+        "opening_hours": "Mo-Su 10:00-18:30",
+        "phone": "075-748-1320",
+        "website": "https://www.itohkyuemon.co.jp/"
+      }
+    },
+    {
+      "name": "カフェ・ベローチェ",
+      "distance": "約122m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.987043,135.7572705",
+      "details": {
+        "amenity": "cafe",
+        "branch": "京都駅前店",
+        "brand": "カフェ・ベローチェ",
+        "brand:en": "CAFFÈ VELOCE",
+        "brand:ja": "カフェ・ベローチェ",
+        "brand:wikidata": "Q11294597",
+        "brand:wikipedia": "ja:カフェ・ベローチェ",
+        "contact:website": "https://chatnoir-company.com/chatnoir/ShopSearch?shop_code=359",
+        "cuisine": "coffee_shop",
+        "name": "カフェ・ベローチェ",
+        "name:en": "CAFE VELOCE",
+        "name:ja": "カフェ・ベローチェ",
+        "name:ja_rm": "Kafe Beroche",
+        "opening_hours": "Mo-Su 06:30-22:45",
+        "phone": "+81 75 342 5165",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "Chasen",
+      "distance": "約123m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9860069,135.757966",
+      "details": {
+        "amenity": "cafe",
+        "name": "Chasen",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "YEBISU BAR",
+      "distance": "約126m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880228,135.7591899",
+      "details": {
+        "addr:full": "京都府京都市下京区烏丸通七条下ル東塩小路町590-2 京都ヨドバシ1F",
+        "addr:postcode": "6008216",
+        "amenity": "restaurant",
+        "branch": "京都ヨドバシ店",
+        "name": "YEBISU BAR",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+81-75-3532201",
+        "smoking": "no"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約127m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9870789,135.7600087",
+      "details": {
+        "amenity": "restaurant",
+        "name:de": "Ippudo Kyoto Porta"
+      }
+    },
+    {
+      "name": "但馬屋",
+      "distance": "約136m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880843,135.7592719",
+      "details": {
+        "amenity": "restaurant",
+        "name": "但馬屋",
+        "name:ja": "但馬屋"
+      }
+    },
+    {
+      "name": "小川珈琲（株)",
+      "distance": "約139m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9864384,135.7599984",
+      "details": {
+        "addr:street": "烏丸地下通路",
+        "amenity": "cafe",
+        "name": "小川珈琲（株)",
+        "name:en": "Ogawa Coffee",
+        "website": "https://www.oc-ogawa.co.jp/"
+      }
+    },
+    {
+      "name": "Kimuraya",
+      "distance": "約142m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9873528,135.7601168",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Kimuraya"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約144m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9859374,135.7576766",
+      "details": {
+        "amenity": "cafe",
+        "name:en": "Katsukura",
+        "name:ko": "카츠쿠라",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "一風堂",
+      "distance": "約146m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9868774,135.7602153",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "京都ポルタ店",
+        "brand": "一風堂",
+        "brand:en": "Ippudo",
+        "brand:ja": "一風堂",
+        "brand:wikidata": "Q6065417",
+        "brand:zh": "一風堂",
+        "cuisine": "ramen",
+        "level": "-2",
+        "level:ref": "B2",
+        "name": "一風堂",
+        "name:en": "Ippudo",
+        "name:ja": "一風堂",
+        "name:zh": "一風堂"
+      }
+    },
+    {
+      "name": "とんかつ薩摩",
+      "distance": "約147m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9882256,135.7591712",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "京都ヨドバシ店",
+        "level": "5",
+        "name": "とんかつ薩摩",
+        "name:en": "Satsuma",
+        "name:ja": "とんかつ薩摩 京都ヨドバシ店",
+        "name:zh": "とんかつ薩摩 豬排"
+      }
+    },
+    {
+      "name": "長尾中華そば",
+      "distance": "約148m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.985755,135.7579822",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "description": "青森 長尾",
+        "level": "10",
+        "name": "長尾中華そば",
+        "name:en": "Naga Chuka-soba",
+        "website": "https://www.naga-chu.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "かつくら",
+      "distance": "約152m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9857399,135.759316",
+      "details": {
+        "amenity": "restaurant",
+        "name": "かつくら",
+        "name:en": "Katsukura",
+        "name:ja": "かつくら",
+        "name:zh": "名代豬排",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "中村商店",
+      "distance": "約152m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9857,135.758009",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "高槻",
+        "level": "10",
+        "name": "中村商店",
+        "name:ja": "中村商店",
+        "website": "http://kinseigroup.co.jp/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "博多一幸舎",
+      "distance": "約153m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9857356,135.7578868",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "博多",
+        "level": "10",
+        "name": "博多一幸舎",
+        "name:en": "Hakata Ikkousha",
+        "name:ja": "博多一幸舎",
+        "name:ja-Hira": "はかたいっこうしゃ",
+        "website": "https://www.ikkousha.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約157m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9883918,135.7584166",
+      "details": {
+        "amenity": "restaurant",
+        "name:de": "Tonkotsu Ramen"
+      }
+    },
+    {
+      "name": "ますたに",
+      "distance": "約160m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856333,135.7580027",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "京都",
+        "level": "10",
+        "name": "ますたに",
+        "name:en": "Masutani",
+        "name:ja": "ますたに",
+        "website": "https://www.masutani-ramen.net/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "大勝軒",
+      "distance": "約161m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.985716,135.7577388",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "東京 東池袋",
+        "level": "10",
+        "name": "大勝軒",
+        "name:en": "Taishoken",
+        "name:ja": "大勝軒",
+        "name:ja-Hira": "たいしょうけん",
+        "opening_hours": "11:00-22:00",
+        "phone": "075-365-5066",
+        "website": "http://www.tai-sho-ken.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "Délifrance",
+      "distance": "約162m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9882194,135.7595555",
+      "details": {
+        "addr:street": "烏丸通",
+        "amenity": "cafe",
+        "brand": "Délifrance",
+        "brand:wikidata": "Q5320229",
+        "cuisine": "coffee_shop;french",
+        "name": "Délifrance",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "麺匠 たか松",
+      "distance": "約167m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856077,135.7578722",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "京都",
+        "level": "10",
+        "name": "麺匠 たか松",
+        "name:en": "Mensho",
+        "name:ja": "麺匠 たか松",
+        "name:ja-Hira": "めんしょう　たかまつ",
+        "website": "https://mensho.net/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "ラーメン東大",
+      "distance": "約170m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856294,135.7577361",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "徳島",
+        "level": "10",
+        "name": "ラーメン東大",
+        "name:en": "Ramen Todai",
+        "name:ja": "ラーメン東大",
+        "name:ja-Hira": "とうだい",
+        "website": "https://ramen-todai.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "茶筅",
+      "distance": "約171m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856965,135.7575822",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "level": "10",
+        "name": "茶筅",
+        "name:ja": "茶筅",
+        "name:ja-Hira": "ちゃせん",
+        "shop": "pastry",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "麺家いろは",
+      "distance": "約176m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856443,135.7575812",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "富山",
+        "level": "10",
+        "name": "麺家いろは",
+        "name:en": "Menya Iroha",
+        "name:ja": "麺家いろは",
+        "website": "https://www.menya-iroha.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約179m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9857829,135.7572997",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name:en": "The Kitchen Salvatore Cuomo KYOTO",
+        "name:ja": "ザ キッチン サルヴァトーレ クオモ 京都",
+        "website": "http://www.kitchensalvatore.jp/kyoto/index.html",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "Pâtisserie & Cafe Del’immo KYOTO",
+      "distance": "約179m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9854303,135.758084",
+      "details": {
+        "addr:block_number": "下ル",
+        "addr:city": "京都市",
+        "addr:neighbourhood": "烏丸通塩小路",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "capacity": "72",
+        "level": "2",
+        "name": "Pâtisserie & Cafe Del’immo KYOTO",
+        "name:ja": "パティスリー＆カフェ デリーモ京都",
+        "opening_hours": "Mo-Fr 10:00-22:00, Sa-Su 08:00-22:00",
+        "reservation": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.delimmo-japan.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "麺屋はなび",
+      "distance": "約184m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9856503,135.7574096",
+      "details": {
+        "addr:city": "京都市",
+        "addr:housename": "京都駅ビル",
+        "addr:housenumber": "901",
+        "addr:postcode": "600-8216",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都拉麺小路店",
+        "cuisine": "ramen",
+        "description": "名古屋",
+        "level": "10",
+        "name": "麺屋はなび",
+        "name:en": "Menya Hanabi",
+        "name:ja": "麺屋はなび",
+        "website": "https://www.menya-hanabi.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "麺家さがの",
+      "distance": "約189m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9854828,135.7576343",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-08-03",
+        "cuisine": "noodle",
+        "level": "0",
+        "name": "麺家さがの"
+      }
+    },
+    {
+      "name": "スターバックス",
+      "distance": "約192m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9854867,135.7596809",
+      "details": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "クワトロ",
+      "distance": "約199m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9873923,135.7564768",
+      "details": {
+        "amenity": "restaurant",
+        "contact:website": "http://www.bal-flower.co.jp/fd/kyoto.html",
+        "cuisine": "italian",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "クワトロ",
+        "name:it": "QUATRO",
+        "outdoor_seating": "no",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "Nakamura Tokichi, Kyoto Station Store",
+      "distance": "約202m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9852282,135.7580293",
+      "details": {
+        "addr:block_number": "下ル",
+        "addr:city": "京都市",
+        "addr:neighbourhood": "烏丸通塩小路",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "brand": "中村藤𠮷本店",
+        "capacity": "38",
+        "cuisine": "japanese",
+        "level": "2",
+        "name": "Nakamura Tokichi, Kyoto Station Store",
+        "name:en": "Nakamura Tokichi, Kyoto Station Store",
+        "name:ja": "中村藤𠮷本店 京都駅店",
+        "name:zh": "中村藤吉",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.tokichi.jp/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約205m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9851381,135.7584317",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "10th floor full of Ramen",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "どんぐり",
+      "distance": "約208m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9873797,135.7608555",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "どんぐり"
+      }
+    },
+    {
+      "name": "京やさい料理 接方来 京都駅ビル店",
+      "distance": "約210m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9860273,135.7606039",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "delivery": "no",
+        "name": "京やさい料理 接方来 京都駅ビル店",
+        "opening_hours": "11:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+81 75-353-9565"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約212m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9851097,135.7581642",
+      "details": {
+        "amenity": "restaurant",
+        "name:zh": "京都拉麵小路",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "Nha Viet Nam",
+      "distance": "約212m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.988735,135.7595423",
+      "details": {
+        "addr:block_number": "707",
+        "addr:city": "京都市",
+        "addr:housenumber": "2",
+        "addr:quarter": "東塩小路町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "branch": "京都店",
+        "contact:facebook": "https://www.facebook.com/banhmistar/",
+        "contact:instagram": "https://www.instagram.com/nha_vietnam/",
+        "contact:phone": "+81 75 365 5199",
+        "contact:twitter": "https://twitter.com/nhavietnam",
+        "contact:website": "https://nha-vietnam.info/",
+        "cuisine": "vietnamese",
+        "level": "1",
+        "name": "Nha Viet Nam",
+        "name:ja": "ニャーヴェトナム"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約219m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9881152,135.7566388",
+      "details": {
+        "amenity": "cafe",
+        "level": "0",
+        "source": "local knowledge",
+        "takeaway": "no"
+      }
+    },
+    {
+      "name": "ExpressDeli Cafe",
+      "distance": "約228m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9849291,135.7585318",
+      "details": {
+        "amenity": "cafe",
+        "level": "2",
+        "name": "ExpressDeli Cafe",
+        "takeaway": "only"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約230m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9888892,135.7596142",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Donguri"
+      }
+    },
+    {
+      "name": "胡",
+      "distance": "約233m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890748,135.7587783",
+      "details": {
+        "amenity": "restaurant",
+        "contact:website": "https://tantanmen-yebisu-kyotoekimae.owst.jp/",
+        "cuisine": "ramen",
+        "indoor": "room",
+        "level": "0",
+        "name": "胡"
+      }
+    },
+    {
+      "name": "がんこ 京都駅ビル店",
+      "distance": "約237m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.985832,135.7608106",
+      "details": {
+        "amenity": "restaurant",
+        "name": "がんこ 京都駅ビル店",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "シアトルズベストコーヒー",
+      "distance": "約238m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9879181,135.7609684",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "http://www.jrff.co.jp/seabest/shop/area05.html#shop21",
+        "indoor": "room",
+        "level": "0",
+        "name": "シアトルズベストコーヒー",
+        "source": "local knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "スターバックス",
+      "distance": "約238m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9848433,135.7584627",
+      "details": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "听",
+      "distance": "約240m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891188,135.75904",
+      "details": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/pound.kyotoekimae/",
+        "contact:website": "https://pound.2os.jp/kyotoekimae/",
+        "name": "听",
+        "name:en": "Pound Kyoto Ekimae"
+      }
+    },
+    {
+      "name": "Poco",
+      "distance": "約242m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9874842,135.7612096",
+      "details": {
+        "amenity": "cafe",
+        "indoor": "area",
+        "level": "0",
+        "name": "Poco"
+      }
+    },
+    {
+      "name": "やる気",
+      "distance": "約245m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890875,135.7577969",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "yakiniku",
+        "name": "やる気"
+      }
+    },
+    {
+      "name": "スターバックス",
+      "distance": "約246m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.984798,135.7581428",
+      "details": {
+        "amenity": "cafe",
+        "brand": "スターバックス",
+        "brand:en": "Starbucks",
+        "brand:ja": "スターバックス",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "location": "underground",
+        "name": "スターバックス",
+        "name:en": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "スターバックスコーヒー",
+        "official_name:en": "Starbucks Coffee",
+        "official_name:ja": "スターバックスコーヒー",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "珈琲館",
+      "distance": "約254m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9889914,135.7599473",
+      "details": {
+        "amenity": "cafe",
+        "brand": "珈琲館",
+        "brand:en": "Kohikan",
+        "brand:ja": "珈琲館",
+        "brand:wikidata": "Q11573290",
+        "brand:wikipedia": "ja:珈琲館",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "珈琲館",
+        "name:en": "Kohikan",
+        "name:ja": "珈琲館",
+        "source": "local knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "西櫻亭 京都店",
+      "distance": "約254m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9863273,135.755934",
+      "details": {
+        "addr": "〒600-8216 Kyoto, Shimogyo Ward, 東塩小路町657 ジェイアール京都伊勢丹 11F",
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "西櫻亭 京都店",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+81-75-352-2337",
+        "website": "https://nichioh.jp/seiohtei/kyoto/"
+      }
+    },
+    {
+      "name": "Organic House Salute",
+      "distance": "約256m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9883018,135.7563037",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Organic House Salute"
+      }
+    },
+    {
+      "name": "ドンピー",
+      "distance": "約256m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880317,135.7561018",
+      "details": {
+        "alt_name": "竹中珈琲",
+        "amenity": "cafe",
+        "level": "-1",
+        "name": "ドンピー",
+        "source": "local knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "庄や",
+      "distance": "約261m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890661,135.7599473",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "-1",
+        "name": "庄や",
+        "source": "local knowledge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "name": "isoism",
+      "distance": "約263m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893392,135.7589495",
+      "details": {
+        "amenity": "restaurant",
+        "contact:website": "http://isoism.isozumi.jp/",
+        "cuisine": "vietnamese",
+        "indoor": "area",
+        "level": "0;1",
+        "name": "isoism",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "CENTPO",
+      "distance": "約263m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893422,135.7583876",
+      "details": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/centrokyoto/",
+        "contact:website": "http://centro-kyoto.com/",
+        "cuisine": "italian",
+        "indoor": "room",
+        "level": "0",
+        "name": "CENTPO"
+      }
+    },
+    {
+      "name": "ビストロ　のんき",
+      "distance": "約263m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9878522,135.7613035",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "ビストロ　のんき"
+      }
+    },
+    {
+      "name": "UCC Cafe Plaza",
+      "distance": "約264m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890904,135.7599634",
+      "details": {
+        "amenity": "restaurant",
+        "name": "UCC Cafe Plaza"
+      }
+    },
+    {
+      "name": "マールブランシュ",
+      "distance": "約265m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9847056,135.7577495",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "マールブランシュ",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "丸福",
+      "distance": "約265m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880863,135.7611985",
+      "details": {
+        "amenity": "restaurant",
+        "contact:website": "http://www.eonet.ne.jp/~kyoto-marufuku/",
+        "cuisine": "noodle",
+        "indoor": "area",
+        "level": "0",
+        "name": "丸福",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "京のSAKESORA",
+      "distance": "約265m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893388,135.7581539",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "京のSAKESORA"
+      }
+    },
+    {
+      "name": "本格焼肉　チファジャ",
+      "distance": "約269m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9885203,135.7608984",
+      "details": {
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:levels": "5",
+        "cuisine": "barbecue",
+        "name": "本格焼肉　チファジャ",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "Unir",
+      "distance": "約274m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891291,135.7571228",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "http://unir-coffee.com/shop/kyoto/",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "aso-cafe",
+        "level": "0",
+        "name": "Unir",
+        "name:ja": "ウニール"
+      }
+    },
+    {
+      "name": "寿司のむさし",
+      "distance": "約276m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845321,135.7581156",
+      "details": {
+        "addr:city": "kyoto",
+        "amenity": "restaurant",
+        "branch": "京都駅八条口アスティーロード店",
+        "branch:en": "KyotoStationHachijoguchiExitASTYroad",
+        "brand": "寿司のむさし",
+        "construction": "yes",
+        "cuisine": "sushi",
+        "name": "寿司のむさし",
+        "name:en": "Sushi Musashi",
+        "name:ja": "寿司のむさし",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "Kyo-Chabana",
+      "distance": "約277m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891249,135.7570477",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "Kyo-Chabana",
+        "website": "http://chabana.com/shop/%e5%8d%97%e6%96%b0%e7%94%ba%e5%ba%97/"
+      }
+    },
+    {
+      "name": "ぎをん為治郎",
+      "distance": "約277m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844874,135.7585375",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "ぎをん為治郎"
+      }
+    },
+    {
+      "name": "土井",
+      "distance": "約279m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845614,135.7594265",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "土井",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "IRODORI",
+      "distance": "約279m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844792,135.7588508",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "check_date": "2025-09-16",
+        "cuisine": "パフェ;あんみつ;かき氷",
+        "level": "0",
+        "name": "IRODORI",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "saredo cafe",
+      "distance": "約280m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891249,135.7569954",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "https://saredo-cafe.owst.jp/",
+        "level": "1",
+        "name": "saredo cafe",
+        "source": "local knowledge",
+        "takeaway": "no"
+      }
+    },
+    {
+      "name": "和にち",
+      "distance": "約280m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9884125,135.756082",
+      "details": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/wanichi/",
+        "cuisine": "japanese",
+        "name": "和にち",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "むさし",
+      "distance": "約282m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845608,135.759566",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "check_date:opening_hours": "2025-09-16",
+        "cuisine": "sushi",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "むさし",
+        "opening_hours": "Mo-Su 10:30-21:45",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約282m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893369,135.7574411",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Kyo Chabana"
+      }
+    },
+    {
+      "name": "京的燒肉處 弘",
+      "distance": "約283m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9887639,135.7608416",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "京都站前店",
+        "name": "京的燒肉處 弘"
+      }
+    },
+    {
+      "name": "Kemichibu Kyoto Main Store",
+      "distance": "約283m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894071,135.7576475",
+      "details": {
+        "addr:block_number": "西境町１５２",
+        "addr:city": "京都市",
+        "addr:postcode": "600-8218",
+        "addr:province": "京都府",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "name": "Kemichibu Kyoto Main Store",
+        "phone": "075-343-7676",
+        "website": "https://gaemizib.jp/"
+      }
+    },
+    {
+      "name": "花たぬき",
+      "distance": "約284m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9886718,135.7609615",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "花たぬき",
+        "note": "お好み焼き　焼きそば　鉄板焼き"
+      }
+    },
+    {
+      "name": "原子郭",
+      "distance": "約286m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845609,135.7596995",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "curry",
+        "level": "0",
+        "name": "原子郭",
+        "opening_hours": "Mo-Su,PH 11:00-21:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "ご馳家",
+      "distance": "約286m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9884576,135.7611935",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "ご馳家"
+      }
+    },
+    {
+      "name": "イノダコーヒ",
+      "distance": "約287m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844896,135.7594466",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "branch": "八条口支店",
+        "capacity": "62",
+        "check_date": "2025-09-16",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "イノダコーヒ",
+        "name:en": "INODA'S COFFEE",
+        "opening_hours": "07:30-20:00",
+        "outdoor_seating": "no",
+        "phone": "+81 75 574 7478",
+        "smoking": "no",
+        "website": "https://www.inoda-coffee.co.jp/shop/hachijo/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "濱いち",
+      "distance": "約290m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9868759,135.7617972",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2024-12-30",
+        "name": "濱いち"
+      }
+    },
+    {
+      "name": "くらま",
+      "distance": "約291m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845631,135.7598407",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "check_date:opening_hours": "2025-09-16",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "くらま",
+        "opening_hours": "Mo-Su,PH 10:00-23:00",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "七番館",
+      "distance": "約293m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891209,135.7604974",
+      "details": {
+        "amenity": "restaurant",
+        "contact:instagram": "nanabankan",
+        "cuisine": "regional",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "lunch": "yes",
+        "name": "七番館",
+        "name:en": "Nana-bankan",
+        "smoking": "no",
+        "website": "https://www.nanabankan.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "distance": "約295m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891022,135.7566532",
+      "details": {
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/rabbitlivekyoto/",
+        "contact:website": "https://rabbitlive.jimdo.com/",
+        "name": "Rabbit",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "いいむら",
+      "distance": "約295m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9889753,135.7607603",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "いいむら"
+      }
+    },
+    {
+      "name": "京町家茶屋 抹茶亭",
+      "distance": "約295m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.984498,135.7597654",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "京町家茶屋 抹茶亭",
+        "opening_hours": "09:00-21:00"
+      }
+    },
+    {
+      "name": "PASTA MORE",
+      "distance": "約298m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845258,135.75993",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "check_date:opening_hours": "2025-09-16",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "PASTA MORE",
+        "name:ja": "パスタモーレ",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "京ダイニング八条",
+      "distance": "約298m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.984555,135.7599995",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "京ダイニング八条",
+        "opening_hours": "Mo-Su,PH 11:00-23:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "星乃珈琲",
+      "distance": "約298m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.984501,135.7598608",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "branch": "アスティ京都店",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "星乃珈琲",
+        "opening_hours": "Mo-Su 07:00-22:15",
+        "phone": "+81 75 748 8656",
+        "smoking": "no",
+        "website": "https://hoshinocoffee.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "name": "Coyote",
+      "distance": "約299m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9863936,135.7554041",
+      "details": {
+        "amenity": "cafe",
+        "cuisine": "breakfast;coffee_shop",
+        "name": "Coyote",
+        "name:en": "Coyote",
+        "opening_hours": "Tu-Su 08:30-17:00",
+        "website": "https://www.instagram.com/coyote.kyoto/"
+      }
+    },
+    {
+      "name": "京創作 平林亭 展望閣",
+      "distance": "約301m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894398,135.7600197",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "京創作 平林亭 展望閣"
+      }
+    },
+    {
+      "name": "和カフェ 京あんじゅ",
+      "distance": "約306m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846377,135.7568366",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "和カフェ 京あんじゅ"
+      }
+    },
+    {
+      "name": "Starbucks Coffee;餃子の王将",
+      "distance": "約311m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9895639,135.7599547",
+      "details": {
+        "amenity": "restaurant",
+        "brand": "餃子の王将",
+        "cuisine": "chinese;gyoza",
+        "cuisine:ja": "餃子",
+        "name": "Starbucks Coffee;餃子の王将",
+        "name:en": "OHSHO",
+        "name:ja": "餃子の王将",
+        "name:ja_rm": "Gyoza No Ohsho",
+        "name:ko": "스타벅스"
+      }
+    },
+    {
+      "name": "Frenchman",
+      "distance": "約312m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890179,135.7609776",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Frenchman"
+      }
+    },
+    {
+      "name": "江戸川",
+      "distance": "約316m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846327,135.756648",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "江戸川",
+        "note": "鰻メイン",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "やる気",
+      "distance": "約319m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891597,135.7609078",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "やる気",
+        "operator": "（株）やる気"
+      }
+    },
+    {
+      "name": "京喫茶 潤",
+      "distance": "約320m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844963,135.7568413",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "京喫茶 潤"
+      }
+    },
+    {
+      "name": "焼肉弘商店",
+      "distance": "約321m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880288,135.7553265",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "焼肉弘商店"
+      }
+    },
+    {
+      "name": "勝牛",
+      "distance": "約321m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893629,135.760617",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "牛カツ",
+        "name": "勝牛"
+      }
+    },
+    {
+      "name": "Steak & Wine GINJIRO Jr",
+      "distance": "約322m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891338,135.760995",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Steak & Wine GINJIRO Jr"
+      }
+    },
+    {
+      "name": "とり八",
+      "distance": "約322m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846298,135.7565472",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "とり八"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約328m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9892821,135.760885",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name:en": "100K - Craft beer & Pizza"
+      }
+    },
+    {
+      "name": "おそば処 葵",
+      "distance": "約328m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845084,135.7566456",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "noodle",
+        "level": "0",
+        "name": "おそば処 葵"
+      }
+    },
+    {
+      "name": "炭火串焼・串揚げ 孫兵衛",
+      "distance": "約328m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846177,135.7564543",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "炭火串焼・串揚げ 孫兵衛"
+      }
+    },
+    {
+      "name": "Bailal Cafe",
+      "distance": "約330m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9869794,135.7549853",
+      "details": {
+        "amenity": "cafe",
+        "name": "Bailal Cafe"
+      }
+    },
+    {
+      "name": "京都生そば もり平",
+      "distance": "約333m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846163,135.7563736",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "noodle",
+        "level": "0",
+        "name": "京都生そば もり平",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "name": "クラフトビール＆京都イタリアン １００Ｋ",
+      "distance": "約334m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893552,135.7608736",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "クラフトビール＆京都イタリアン １００Ｋ"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約336m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9873915,135.7622749",
+      "details": {
+        "amenity": "cafe",
+        "name:en": "Tsumugi Cafe"
+      }
+    },
+    {
+      "name": "スパトラ",
+      "distance": "約336m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846148,135.7563159",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "スパトラ",
+        "name:en": "Spice Try"
+      }
+    },
+    {
+      "name": "チャオプレッソ",
+      "distance": "約338m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844849,135.7564923",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "branch": "京都みやこみち店",
+        "check_date": "2025-09-16",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "チャオプレッソ",
+        "name:en": "Cafe Ciao Presso",
+        "opening_hours": "Mo-Su 07:00-20:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+81 75 671 8807",
+        "smoking": "no",
+        "website": "https://ciaopresso.com"
+      }
+    },
+    {
+      "name": "すし昌",
+      "distance": "約342m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9846017,135.7562293",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "sushi",
+        "level": "0",
+        "name": "すし昌"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約345m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9879039,135.7549878",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Tomisen Sushi"
+      }
+    },
+    {
+      "name": "いにしえの店 尾張弥",
+      "distance": "約346m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.989834,135.7601505",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "soba",
+        "cuisine:ja": "そば",
+        "name": "いにしえの店 尾張弥",
+        "name:en": "Owariya",
+        "name:ja": "いにしえの店 尾張弥",
+        "opening_hours": "Mo-Su 11:00-19:00"
+      }
+    },
+    {
+      "name": "セレーノ食堂",
+      "distance": "約347m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844759,135.7563362",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "italian",
+        "level": "0",
+        "name": "セレーノ食堂",
+        "opening_hours": "11:00-22:00"
+      }
+    },
+    {
+      "name": "百楽",
+      "distance": "約348m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845909,135.7561467",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "chinese",
+        "level": "0",
+        "name": "百楽"
+      }
+    },
+    {
+      "name": "とく",
+      "distance": "約349m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.987291,135.7547967",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "yakiniku",
+        "name": "とく"
+      }
+    },
+    {
+      "name": "炭火とワイン",
+      "distance": "約350m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894612,135.7609963",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-09-28",
+        "name": "炭火とワイン",
+        "name:en": "Sumibi to wine"
+      }
+    },
+    {
+      "name": "sen-ryo",
+      "distance": "約351m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838524,135.758118",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "name": "sen-ryo",
+        "name:ja": "千両",
+        "opening_hours": "Mo-Su,PH 11:00-15:00,17:00-22:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "新福菜館本店",
+      "distance": "約353m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9867552,135.762489",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "新福菜館本店"
+      }
+    },
+    {
+      "name": "コロラド",
+      "distance": "約353m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9841488,135.7568662",
+      "details": {
+        "amenity": "cafe",
+        "check_date:opening_hours": "2025-01-05",
+        "indoor_seating": "yes",
+        "name": "コロラド",
+        "name:en": "Colorado",
+        "opening_hours": "08:00-21:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "夢現家",
+      "distance": "約353m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838259,135.7590566",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "京都八条口店",
+        "cuisine": "ramen",
+        "level": "0",
+        "name": "夢現家",
+        "name:en": "Mugenya",
+        "opening_hours": "Mo-Su,PH 10:00-01:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "name": "やる気焼肉",
+      "distance": "約353m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838289,135.7591124",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "level": "0",
+        "name": "やる気焼肉"
+      }
+    },
+    {
+      "name": "本家第一旭 (Honke Daiichiasahi)",
+      "distance": "約354m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.986687,135.7624885",
+      "details": {
+        "addr:block_number": "845",
+        "addr:city": "京都市",
+        "addr:postcode": "600-8213",
+        "addr:province": "京都府",
+        "addr:quarter": "東塩小路向畑町",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "本家第一旭 (Honke Daiichiasahi)",
+        "name:en": "Honke Daiichiasahi",
+        "name:ja": "本家第一旭",
+        "opening_hours": "Fr-We,PH 06:00-01:00",
+        "website": "https://www.honke-daiichiasahi.com/"
+      }
+    },
+    {
+      "name": "Nakayama",
+      "distance": "約355m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838262,135.7592136",
+      "details": {
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Nakayama",
+        "opening_hours": "06:00-18:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "とんかつKYK",
+      "distance": "約355m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845769,135.7560397",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "とんかつKYK"
+      }
+    },
+    {
+      "name": "京とんちん亭",
+      "distance": "約359m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844616,135.7561462",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "お好み焼き",
+        "level": "0",
+        "name": "京とんちん亭",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "name": "topscafe",
+      "distance": "約360m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838235,135.7594914",
+      "details": {
+        "amenity": "internet_cafe",
+        "check_date": "2025-07-29",
+        "internet_access": "wlan;terminal",
+        "level": "1",
+        "name": "topscafe",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約362m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9897014,135.7608208",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "kura kura"
+      }
+    },
+    {
+      "name": "京和食 いち藤",
+      "distance": "約364m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844603,135.7560515",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "japanese",
+        "level": "0",
+        "name": "京和食 いち藤"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約370m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9836714,135.758185",
+      "details": {
+        "amenity": "restaurant"
+      }
+    },
+    {
+      "name": "GRILL CAPITAL東洋亭",
+      "distance": "約372m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9845231,135.7558446",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "level": "0",
+        "name": "GRILL CAPITAL東洋亭"
+      }
+    },
+    {
+      "name": "ちから餅",
+      "distance": "約375m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893537,135.7556813",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "indoor": "room",
+        "level": "0",
+        "name": "ちから餅",
+        "opening_hours:covid19": "Sa, Su, PH off",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "ハマムラ",
+      "distance": "約378m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844485,135.755849",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "restaurant",
+        "check_date": "2025-09-16",
+        "cuisine": "ramen",
+        "level": "0",
+        "name": "ハマムラ"
+      }
+    },
+    {
+      "name": "いち膳",
+      "distance": "約380m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9878927,135.754589",
+      "details": {
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/ichizen.kyoto",
+        "contact:website": "http://mgfoods.co.jp/ichizen/",
+        "cuisine": "japanese",
+        "indoor": "area",
+        "name": "いち膳"
+      }
+    },
+    {
+      "name": "Ronde",
+      "distance": "約387m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9840293,135.7563662",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-02-05",
+        "level": "0",
+        "name": "Ronde",
+        "name:ja": "ロンド"
+      }
+    },
+    {
+      "name": "伊晃庵",
+      "distance": "約389m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9872998,135.7543528",
+      "details": {
+        "amenity": "restaurant",
+        "contact:website": "https://c576901.gorp.jp/",
+        "cuisine": "italian",
+        "name": "伊晃庵",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "スイートマロンカフェ",
+      "distance": "約389m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893648,135.7554841",
+      "details": {
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/sweetmarroncaffe/",
+        "contact:website": "http://sweetmarroncaffe.com/",
+        "level": "1",
+        "name": "スイートマロンカフェ",
+        "opening_hours": "08:30-21:00; Su, PH off",
+        "source": "local knowledge",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "name": "タリーズコーヒー",
+      "distance": "約397m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9837126,135.7603803",
+      "details": {
+        "amenity": "cafe",
+        "brand": "タリーズコーヒー",
+        "brand:en": "Tully's Coffee",
+        "brand:ja": "タリーズコーヒー",
+        "brand:wikidata": "Q3541983",
+        "cuisine": "coffee_shop",
+        "level": "1",
+        "name": "タリーズコーヒー",
+        "name:en": "Tully's Coffee",
+        "name:ja": "タリーズコーヒー",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "みなみ",
+      "distance": "約398m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.983789,135.756634",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2024-11-16",
+        "check_date:opening_hours": "2024-11-16",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "name": "みなみ",
+        "opening_hours": "Mo-Sa 16:00-23:00; Su,PH 16:00-22:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "name": "Omofu",
+      "distance": "約398m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9839019,135.7563754",
+      "details": {
+        "addr:floor": "B1F",
+        "amenity": "cafe",
+        "check_date": "2025-07-10",
+        "check_date:opening_hours": "2025-07-10",
+        "contact:phone": "+81 75-6066-811",
+        "contact:website": "https://omofuroasterycafe.jp",
+        "cuisine": "coffee_shop",
+        "level": "-1",
+        "name": "Omofu",
+        "name:ja": "オモフ",
+        "opening_hours": "Mo-Su,PH 07:00-19:00",
+        "outdoor_seating": "no",
+        "reservation": "no"
+      }
+    },
+    {
+      "name": "凸鉾",
+      "distance": "約398m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9898857,135.7611884",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-09-28",
+        "cuisine": "japanese",
+        "name": "凸鉾"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約399m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9879287,135.7628448",
+      "details": {
+        "addr:housenumber": "56-22",
+        "amenity": "restaurant",
+        "check_date": "2024-12-30",
+        "cuisine": "japanese",
+        "name:en": "Yamamoto Mambo",
+        "name:ja": "山本まんぼ",
+        "opening_hours": "Th-Tu 10:00-22:00",
+        "phone": "3418050"
+      }
+    },
+    {
+      "name": "カフェ・コモンズ",
+      "distance": "約401m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9869418,135.7630199",
+      "details": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "カフェ・コモンズ"
+      }
+    },
+    {
+      "name": "Shisen",
+      "distance": "約407m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838612,135.7562731",
+      "details": {
+        "addr:floor": "B1F",
+        "amenity": "restaurant",
+        "check_date": "2025-02-05",
+        "cuisine": "chinese",
+        "level": "-1",
+        "name": "Shisen",
+        "name:ja": "四川"
+      }
+    },
+    {
+      "name": "Daniel's Mondo",
+      "distance": "約410m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.986168,135.7542154",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Daniel's Mondo",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "Uoman",
+      "distance": "約414m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9838768,135.756108",
+      "details": {
+        "addr:floor": "B1F",
+        "amenity": "restaurant",
+        "check_date": "2025-02-05",
+        "cuisine": "japanese",
+        "level": "-1",
+        "name": "Uoman",
+        "name:ja": "うおまん"
+      }
+    },
+    {
+      "name": "Core",
+      "distance": "約422m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894907,135.7551312",
+      "details": {
+        "addr:block_number": "407",
+        "addr:city": "京都市",
+        "addr:housenumber": "1",
+        "addr:postcode": "600-8320",
+        "addr:province": "京都府",
+        "addr:quarter": "西洞院七条上ル福本町",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "level": "2",
+        "name": "Core",
+        "name:ja": "コア",
+        "outdoor_seating": "no",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "Onishi Yakitori Bar　大西",
+      "distance": "約434m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893757,135.7548398",
+      "details": {
+        "addr:housenumber": "234",
+        "addr:postcode": "600-8223",
+        "addr:suburb": "下京区",
+        "amenity": "restaurant",
+        "cuisine": "yakitori",
+        "name": "Onishi Yakitori Bar　大西",
+        "opening_hours": "Th-Tu 18:00-24:00; We off"
+      }
+    },
+    {
+      "name": "kurasu",
+      "distance": "約436m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9863768,135.7538812",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "https://jp.kurasu.kyoto/pages/kurasu-kyoto",
+        "indoor_seating": "yes",
+        "name": "kurasu",
+        "name:en": "kurasu",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "takeaway:covid19": "only"
+      }
+    },
+    {
+      "name": "Shiba Raku Cafe",
+      "distance": "約438m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9906231,135.7567596",
+      "details": {
+        "addr:street": "新町通",
+        "amenity": "cafe",
+        "name": "Shiba Raku Cafe"
+      }
+    },
+    {
+      "name": "ぴすとろ KIZANO",
+      "distance": "約444m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9906875,135.7604492",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2022-12-04",
+        "name": "ぴすとろ KIZANO"
+      }
+    },
+    {
+      "name": "Le Plaisir",
+      "distance": "約451m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9837176,135.7556625",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-02-05",
+        "level": "0",
+        "name": "Le Plaisir",
+        "name:ja": "ル・プレジール"
+      }
+    },
+    {
+      "name": "aotake",
+      "distance": "約452m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890193,135.7629185",
+      "details": {
+        "amenity": "cafe",
+        "name": "aotake"
+      }
+    },
+    {
+      "name": "きょうと和み館",
+      "distance": "約455m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894109,135.7545929",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/kyoto.nagomikan/",
+        "contact:website": "https://worldheritage.co.jp/nagomi/kyoto/",
+        "name": "きょうと和み館",
+        "name:en": "Kyoto Nagomikan"
+      }
+    },
+    {
+      "name": "みなみ",
+      "distance": "約463m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.983289,135.7609607",
+      "details": {
+        "addr:floor": "0",
+        "amenity": "cafe",
+        "bar": "yes",
+        "check_date": "2025-10-18",
+        "level": "0",
+        "name": "みなみ",
+        "opening_hours": "Th-Tu 07:45-18:30",
+        "outdoor_seating": "no",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "no"
+      }
+    },
+    {
+      "name": "Ikariya petit",
+      "distance": "約464m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9869774,135.7535106",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Ikariya petit"
+      }
+    },
+    {
+      "name": "すし岩",
+      "distance": "約468m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9903053,135.7617852",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "すし岩",
+        "name:en": "sushi iwa"
+      }
+    },
+    {
+      "name": "光洋軒",
+      "distance": "約471m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9830025,135.7568179",
+      "details": {
+        "amenity": "restaurant",
+        "name": "光洋軒"
+      }
+    },
+    {
+      "name": "Wasso bar style",
+      "distance": "約484m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9875731,135.7533427",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Wasso bar style"
+      }
+    },
+    {
+      "name": "ブルダ",
+      "distance": "約488m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9827242,135.759923",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "ブルダ"
+      }
+    },
+    {
+      "name": "パッチョコーネ",
+      "distance": "約492m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893403,135.7540395",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "indoor": "area",
+        "level": "0;1",
+        "name": "パッチョコーネ",
+        "name:it": "PACIOCCONE",
+        "source": "local knowledge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "name": "鉄板焼きお好み焼き大黒町おおきに",
+      "distance": "約495m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893413,135.7539961",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2024-08-12",
+        "name": "鉄板焼きお好み焼き大黒町おおきに"
+      }
+    },
+    {
+      "name": "ヒイヅルcafe",
+      "distance": "約505m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893474,135.7538759",
+      "details": {
+        "amenity": "cafe",
+        "contact:website": "https://ameblo.jp/hiidurucafe/",
+        "indoor": "room",
+        "level": "0",
+        "name": "ヒイヅルcafe",
+        "source": "local knowledge",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "やよい軒",
+      "distance": "約506m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9844859,135.753968",
+      "details": {
+        "amenity": "restaurant",
+        "brand": "やよい軒",
+        "brand:en": "Yayoiken",
+        "brand:ja": "やよい軒",
+        "brand:th": "ยาโยอิ",
+        "brand:wikidata": "Q11280577",
+        "cuisine": "japanese",
+        "indoor_seating": "yes",
+        "name": "やよい軒",
+        "name:en": "Yayoiken",
+        "name:ja": "やよい軒",
+        "name:ja_rm": "Yayoiken",
+        "name:th": "ยาโยอิ",
+        "opening_hours": "Mo-Su,PH 07:00-23:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "name": "Trattoria M Kyoto by Accor",
+      "distance": "約506m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9883913,135.7533271",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Trattoria M Kyoto by Accor"
+      }
+    },
+    {
+      "name": "京都コンシェルジュサロン",
+      "distance": "約507m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9898834,135.7543096",
+      "details": {
+        "amenity": "cafe",
+        "description": "茶道体験、エステサロン、着物カフェ、薬膳ランチ、各種イベント",
+        "fixme": "May be closed",
+        "name": "京都コンシェルジュサロン"
+      }
+    },
+    {
+      "name": "りょあん",
+      "distance": "約528m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9827814,135.7613326",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "りょあん",
+        "name:en": "Ryoan",
+        "smoking:outside": "yes"
+      }
+    },
+    {
+      "name": "大阪屋",
+      "distance": "約534m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893455,135.7535015",
+      "details": {
+        "amenity": "restaurant",
+        "name": "大阪屋"
+      }
+    },
+    {
+      "name": "davada",
+      "distance": "約541m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890256,135.7640136",
+      "details": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "davada",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "京",
+      "distance": "約546m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9821387,135.759592",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "okonomiyaki",
+        "name": "京",
+        "opening_hours": "17:00+"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約546m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9829923,135.7551095",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "momoju",
+        "name:fr": "momoju"
+      }
+    },
+    {
+      "name": "ブルームコーヒー",
+      "distance": "約550m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9916011,135.756437",
+      "details": {
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC-245836179082690/",
+        "contact:instagram": "https://www.instagram.com/bloom.coffee/",
+        "contact:twitter": "https://twitter.com/bloomcoffee_",
+        "indoor": "room",
+        "level": "0",
+        "name": "ブルームコーヒー",
+        "opening_hours": "Mo-Su 07:30-11:00",
+        "source": "local knowledge"
+      }
+    },
+    {
+      "name": "ふぐ八",
+      "distance": "約554m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.982056,135.7576955",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "fish;fugu",
+        "name": "ふぐ八"
+      }
+    },
+    {
+      "name": "コメダ珈琲店",
+      "distance": "約557m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9829413,135.754998",
+      "details": {
+        "amenity": "cafe",
+        "brand": "コメダ珈琲店",
+        "brand:en": "KOMEDA'S Coffee",
+        "brand:ja": "コメダ珈琲店",
+        "brand:wikidata": "Q11302679",
+        "cuisine": "coffee_shop",
+        "level": "2",
+        "name": "コメダ珈琲店",
+        "name:en": "Komeda's Coffee",
+        "name:ja": "コメダ珈琲店",
+        "opening_hours": "Mo-Su,PH 10:00-22:00",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "CoCo壱番屋",
+      "distance": "約560m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9819997,135.7595708",
+      "details": {
+        "amenity": "restaurant",
+        "brand": "CoCo壱番屋",
+        "brand:en": "CoCo ICHIBANYA",
+        "brand:ja": "CoCo壱番屋",
+        "brand:wikidata": "Q5986105",
+        "brand:wikipedia": "en:Ichibanya",
+        "cuisine": "curry;japanese",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "CoCo壱番屋",
+        "name:en": "CoCo ICHIBANYA",
+        "name:ja": "CoCo壱番屋",
+        "outdoor_seating": "no",
+        "short_name": "ココイチ",
+        "short_name:en": "CoCoICHI",
+        "short_name:ja": "ココイチ",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "天下一品",
+      "distance": "約562m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.984234,135.7534254",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "八条口店",
+        "brand": "天下一品",
+        "brand:en": "Tenkaippin",
+        "brand:ja": "天下一品",
+        "brand:wikidata": "Q11442172",
+        "cuisine": "ramen",
+        "name": "天下一品",
+        "name:en": "Tenkaippin",
+        "name:ja": "天下一品",
+        "name:ja_rm": "Tenka Ippin",
+        "operator": "天下一品",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "SUNDUBU TAIKOU",
+      "distance": "約565m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.986996,135.7648187",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2023-03-11",
+        "cuisine": "korean",
+        "level": "0",
+        "name": "SUNDUBU TAIKOU",
+        "name:ja": "純豆腐太閤",
+        "opening_hours": "Mo,We-Su 11:30-14:30,17:30-22:00; Tu off",
+        "phone": "+81-50-5462-2268",
+        "website": "https://jundouhutaikou.foodre.jp/"
+      }
+    },
+    {
+      "name": "みちじの王様",
+      "distance": "約574m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9818882,135.7575515",
+      "details": {
+        "amenity": "restaurant",
+        "name": "みちじの王様"
+      }
+    },
+    {
+      "name": "洋食グリルスタンド",
+      "distance": "約577m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9918069,135.7609751",
+      "details": {
+        "amenity": "restaurant",
+        "check_date": "2025-09-28",
+        "name": "洋食グリルスタンド"
+      }
+    },
+    {
+      "name": "花",
+      "distance": "約578m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9817868,135.7582811",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "花",
+        "name:en": "HANA"
+      }
+    },
+    {
+      "name": "キツネ日和",
+      "distance": "約590m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9819985,135.7608371",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "キツネ日和",
+        "name:en": "Kitsune Hiwa",
+        "website": "https://izakaya428.com/"
+      }
+    },
+    {
+      "name": "紡空",
+      "distance": "約598m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9818449,135.7605793",
+      "details": {
+        "amenity": "restaurant",
+        "name": "紡空"
+      }
+    },
+    {
+      "name": "Teras",
+      "distance": "約606m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9818498,135.7608667",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Teras"
+      }
+    },
+    {
+      "name": "Non-non",
+      "distance": "約614m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9816397,135.7569081",
+      "details": {
+        "addr:floor": "2",
+        "amenity": "cafe",
+        "bar": "yes",
+        "check_date": "2025-10-20",
+        "internet_access": "no",
+        "level": "1",
+        "name": "Non-non",
+        "opening_hours": "08:00-16:00; Sa, Su, PH off",
+        "outdoor_seating": "no",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "yes"
+      }
+    },
+    {
+      "name": "開化堂カフェ",
+      "distance": "約620m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9898989,135.7644162",
+      "details": {
+        "amenity": "cafe",
+        "check_date": "2024-12-30",
+        "name": "開化堂カフェ",
+        "name:en": "Kaikado Cafe",
+        "name:zh": "開化堂咖啡",
+        "opening_hours": "Fr-We 11:00-17:30"
+      }
+    },
+    {
+      "name": "京の焼肉処 弘 八条口店",
+      "distance": "約625m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9817642,135.7611706",
+      "details": {
+        "addr:housenumber": "25",
+        "addr:street": "京都市南区東九条南山王町",
+        "amenity": "restaurant",
+        "name": "京の焼肉処 弘 八条口店",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "website": "https://yakiniku-hiro.com/japanese/index.html"
+      }
+    },
+    {
+      "name": "ゆば庄",
+      "distance": "約651m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9811761,135.7595869",
+      "details": {
+        "amenity": "cafe",
+        "check_date": "2023-10-03",
+        "cuisine": "ice_cream",
+        "name": "ゆば庄"
+      }
+    },
+    {
+      "name": "本家第一旭",
+      "distance": "約671m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9867693,135.7659838",
+      "details": {
+        "amenity": "restaurant",
+        "name": "本家第一旭",
+        "name:ja": "本家第一旭"
+      }
+    },
+    {
+      "name": "葉月",
+      "distance": "約676m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9828639,135.7640824",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "葉月"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約687m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9891826,135.7656685",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Korean restaurant"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約706m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9932429,135.7599311",
+      "details": {
+        "amenity": "cafe",
+        "name:en": "Toru"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約706m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9926477,135.7551029",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "curry"
+      }
+    },
+    {
+      "name": "京一輪",
+      "distance": "約708m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9878057,135.7509012",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "level": "0",
+        "name": "京一輪"
+      }
+    },
+    {
+      "name": "カモガワ　アーツ＆キッチン",
+      "distance": "約708m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9890108,135.765984",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "international",
+        "name": "カモガワ　アーツ＆キッチン"
+      }
+    },
+    {
+      "name": "草の所",
+      "distance": "約732m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9932413,135.7611298",
+      "details": {
+        "amenity": "restaurant",
+        "name": "草の所"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約743m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9930793,135.7552711",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Ginjo Ramen Kubota"
+      }
+    },
+    {
+      "name": "エミリ",
+      "distance": "約766m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9923819,135.7638378",
+      "details": {
+        "amenity": "cafe",
+        "check_date": "2024-12-30",
+        "name": "エミリ"
+      }
+    },
+    {
+      "name": "K coffee house",
+      "distance": "約781m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9802952,135.7559813",
+      "details": {
+        "amenity": "cafe",
+        "name": "K coffee house"
+      }
+    },
+    {
+      "name": "Veg Out",
+      "distance": "約782m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893942,135.7666864",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Veg Out",
+        "name:en": "Kin Khao",
+        "name:ja": "キンカーオ"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約788m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.989439,135.7667313",
+      "details": {
+        "addr:housenumber": "448",
+        "addr:street": "七条通",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "name:en": "Veg Out",
+        "opening_hours": "Tu-Su 08:00-20:00"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約791m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9914249,135.7654011",
+      "details": {
+        "amenity": "cafe",
+        "name:en": "murmur coffee kyoto"
+      }
+    },
+    {
+      "name": "とんかつ一番",
+      "distance": "約796m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9883258,135.7500277",
+      "details": {
+        "amenity": "restaurant",
+        "name": "とんかつ一番",
+        "name:en": "Tonkatsu Ichiban",
+        "name:ja": "とんかつ一番",
+        "name:zh": "炸豬排一番",
+        "website": "https://tonkatsuichiban.com/"
+      }
+    },
+    {
+      "name": "つるやここな",
+      "distance": "約803m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9940489,135.756762",
+      "details": {
+        "amenity": "cafe",
+        "name": "つるやここな"
+      }
+    },
+    {
+      "name": "大王ラーメン (Daio Ramen)",
+      "distance": "約807m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.994161,135.759978",
+      "details": {
+        "amenity": "fast_food",
+        "cuisine": "ramen",
+        "cuisine:ja": "ラーメン",
+        "name": "大王ラーメン (Daio Ramen)"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約808m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9842551,135.7503914",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Kyoto Ramen Laboratory"
+      }
+    },
+    {
+      "name": "招福亭",
+      "distance": "約810m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9941147,135.756779",
+      "details": {
+        "amenity": "restaurant",
+        "name": "招福亭"
+      }
+    },
+    {
+      "name": "茶そば 招福亭",
+      "distance": "約812m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9941103,135.7566233",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "soba",
+        "name": "茶そば 招福亭"
+      }
+    },
+    {
+      "name": "ウォールデンウッズ",
+      "distance": "約820m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9933451,135.7631743",
+      "details": {
+        "addr:street": "花屋町通",
+        "amenity": "cafe",
+        "name": "ウォールデンウッズ",
+        "name:en": "Walden Woods",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "website": "https://www.walden-woods.com/"
+      }
+    },
+    {
+      "name": "和食さと",
+      "distance": "約823m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9799516,135.7614499",
+      "details": {
+        "amenity": "restaurant",
+        "brand": "和食さと",
+        "brand:en": "Washoku Sato",
+        "brand:ja": "和食さと",
+        "brand:wikidata": "Q11418245",
+        "brand:wikipedia": "ja:SRSホールディングス",
+        "cuisine": "japanese",
+        "name": "和食さと",
+        "name:en": "Washoku Sato",
+        "name:ja": "和食さと"
+      }
+    },
+    {
+      "name": "Bossche",
+      "distance": "約841m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9874995,135.7494012",
+      "details": {
+        "amenity": "cafe",
+        "name": "Bossche"
+      }
+    },
+    {
+      "name": "パラティクレストラン",
+      "distance": "約848m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9793553,135.7583109",
+      "details": {
+        "amenity": "restaurant",
+        "branch": "九条店",
+        "cuisine": "indian",
+        "name": "パラティクレストラン",
+        "name:en": "Partik",
+        "opening_hours": "Mo-Fr 11:00-15:00,17:00-22:30; Sa, Su, PH 11:00-22:30",
+        "phone": "+81 75 691 7904",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約854m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9921056,135.7656047",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "kawa"
+      }
+    },
+    {
+      "name": "LE9 hostel cafe & bar",
+      "distance": "約854m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9793888,135.7600113",
+      "details": {
+        "amenity": "cafe",
+        "name": "LE9 hostel cafe & bar"
+      }
+    },
+    {
+      "name": "三興飯店",
+      "distance": "約857m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9793909,135.7602528",
+      "details": {
+        "amenity": "fast_food",
+        "cuisine": "noodle;ramen",
+        "name": "三興飯店"
+      }
+    },
+    {
+      "name": "蛸安",
+      "distance": "約858m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9887358,135.7494328",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "delivery": "no",
+        "name": "蛸安",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "Colorado coffee shop",
+      "distance": "約859m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9811775,135.7523878",
+      "details": {
+        "amenity": "cafe",
+        "name": "Colorado coffee shop",
+        "opening_hours": "Mo-Su 07:00-18:00"
+      }
+    },
+    {
+      "name": "まつもと",
+      "distance": "約865m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9945168,135.7609896",
+      "details": {
+        "amenity": "restaurant",
+        "name": "まつもと"
+      }
+    },
+    {
+      "name": "焼肉 でん",
+      "distance": "約868m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9796543,135.7553064",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "name": "焼肉 でん",
+        "source": "survey"
+      }
+    },
+    {
+      "name": "SUN BEAM",
+      "distance": "約868m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.989308,135.7495165",
+      "details": {
+        "amenity": "restaurant",
+        "name": "SUN BEAM"
+      }
+    },
+    {
+      "name": "想夫恋",
+      "distance": "約875m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893378,135.7494413",
+      "details": {
+        "amenity": "restaurant",
+        "name": "想夫恋"
+      }
+    },
+    {
+      "name": "Santres",
+      "distance": "約883m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9948888,135.7595691",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Santres"
+      }
+    },
+    {
+      "name": "都野菜賀茂",
+      "distance": "約886m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9880489,135.748972",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "name": "都野菜賀茂"
+      }
+    },
+    {
+      "name": "菜食料理 F エッフェ",
+      "distance": "約892m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9950065,135.7585778",
+      "details": {
+        "alt_name": "Saishoku Ryouri F Effe",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "name": "菜食料理 F エッフェ",
+        "name:en": "Plant-based cuisine F Effe",
+        "name:fr": "Cuisine végétale F Effe",
+        "name:ja_rm": "Saishoku Ryōri F Effe",
+        "opening_hours": "We-Su 11:30-14:30, 18:00-21:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.naturale-f.com"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約896m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.99504,135.7582811",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "sushi"
+      }
+    },
+    {
+      "name": "Cafe world 新町",
+      "distance": "約897m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9949122,135.7567641",
+      "details": {
+        "amenity": "cafe",
+        "name": "Cafe world 新町"
+      }
+    },
+    {
+      "name": "紫雲",
+      "distance": "約899m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9927542,135.7516902",
+      "details": {
+        "amenity": "cafe",
+        "name": "紫雲",
+        "name:en": "Purple clouds",
+        "name:fr": "Nuages violets",
+        "name:ja_rm": "Shiun",
+        "opening_hours": "Mo-Su 08:30-16:30"
+      }
+    },
+    {
+      "name": "野火",
+      "distance": "約916m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9792602,135.7550978",
+      "details": {
+        "amenity": "cafe",
+        "name": "野火"
+      }
+    },
+    {
+      "name": "麵屋 えでぃしょん",
+      "distance": "約916m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893986,135.7682282",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "麵屋 えでぃしょん"
+      }
+    },
+    {
+      "name": "ラーメンの坊歩",
+      "distance": "約924m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893975,135.7683208",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "ramen",
+        "name": "ラーメンの坊歩"
+      }
+    },
+    {
+      "name": "Karage and Ramen",
+      "distance": "約929m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893817,135.7683836",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Karage and Ramen"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約938m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9948933,135.7621946",
+      "details": {
+        "addr:housenumber": "119",
+        "addr:street": "下坂通",
+        "amenity": "cafe",
+        "name:en": "Cafe SNC"
+      }
+    },
+    {
+      "name": "くしまつ",
+      "distance": "約953m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.989124,135.7687521",
+      "details": {
+        "amenity": "restaurant",
+        "name": "くしまつ",
+        "source": "Survey;Image"
+      }
+    },
+    {
+      "name": "ドット",
+      "distance": "約955m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893997,135.7686802",
+      "details": {
+        "amenity": "cafe",
+        "name": "ドット",
+        "name:en": "Dot"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約957m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894087,135.7686987",
+      "details": {
+        "amenity": "cafe",
+        "name:en": ". DOT",
+        "opening_hours": "Mo-Su 09:00-17:00"
+      }
+    },
+    {
+      "name": "漫天兄弟",
+      "distance": "約959m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.978764,135.7554171",
+      "details": {
+        "amenity": "fast_food",
+        "cuisine": "noodle;ramen",
+        "name": "漫天兄弟",
+        "note": "Please fix name"
+      }
+    },
+    {
+      "name": "鍋善",
+      "distance": "約961m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9868532,135.7691632",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "name": "鍋善"
+      }
+    },
+    {
+      "name": "イルザッカヤ",
+      "distance": "約963m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9893986,135.7687721",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "イルザッカヤ"
+      }
+    },
+    {
+      "name": "にしやん",
+      "distance": "約967m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.978684,135.755412",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "yakiniku",
+        "name": "にしやん"
+      }
+    },
+    {
+      "name": "Effect coffee",
+      "distance": "約968m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9941316,135.7646868",
+      "details": {
+        "amenity": "cafe",
+        "check_date": "2025-09-28",
+        "name": "Effect coffee"
+      }
+    },
+    {
+      "name": "Gojo Paradiso Japanese-Mediterranean Restaurant & Bar",
+      "distance": "約973m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9935655,135.7656591",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "lebanese;breakfast;tea;italian_pizza;mediterranean;coffee_shop",
+        "internet_access": "wlan",
+        "name": "Gojo Paradiso Japanese-Mediterranean Restaurant & Bar",
+        "opening_hours": "Mo-Su 07:00-23:00"
+      }
+    },
+    {
+      "name": "京料理 矢尾定",
+      "distance": "約978m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9937223,135.7517147",
+      "details": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "level": "-1",
+        "name": "京料理 矢尾定",
+        "opening_hours": "07:00-09:00,11:00-14:00,17:30-21:00",
+        "source": "Survey"
+      }
+    },
+    {
+      "name": "すし成",
+      "distance": "約978m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9828977,135.7490995",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "sushi",
+        "name": "すし成",
+        "source": "Bing"
+      }
+    },
+    {
+      "name": "Amazon",
+      "distance": "約980m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9894171,135.7689542",
+      "details": {
+        "amenity": "cafe",
+        "building": "retail",
+        "building:colour": "brown",
+        "building:levels": "2",
+        "building:material": "brick",
+        "name": "Amazon",
+        "source": "GSI/KIBAN 2500; NARO;Bing 2012-7;Survey;Image"
+      }
+    },
+    {
+      "name": "KAEru coffee",
+      "distance": "約985m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9952539,135.7624965",
+      "details": {
+        "amenity": "cafe",
+        "check_date": "2023-12-28",
+        "cuisine": "coffee_shop",
+        "name": "KAEru coffee",
+        "name:en": "KAEru coffee",
+        "opening_hours": "Tu-Su 08:00-01:00"
+      }
+    },
+    {
+      "name": "Odashi",
+      "distance": "約985m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.981464,135.767074",
+      "details": {
+        "amenity": "restaurant",
+        "name": "Odashi",
+        "opening_hours": "Tu-Su 11:30-17:00"
+      }
+    },
+    {
+      "name": "龍華",
+      "distance": "約986m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9938182,135.7517147",
+      "details": {
+        "amenity": "cafe",
+        "level": "0",
+        "name": "龍華",
+        "opening_hours": "8:00-17:00",
+        "source": "Survey"
+      }
+    },
+    {
+      "name": "わくわく 東寺店",
+      "distance": "約993m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9792407,135.7531715",
+      "details": {
+        "amenity": "restaurant",
+        "name": "わくわく 東寺店",
+        "name:en": "Wakuwaku Toji",
+        "opening_hours": "Mo-Sa 11:00-14:00, 17:00-22:00"
+      }
+    },
+    {
+      "name": "名称なし",
+      "distance": "約996m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9941271,135.7652251",
+      "details": {
+        "amenity": "restaurant",
+        "name:en": "Baan Thai",
+        "opening_hours": "Mo-Su 17:00-22:00"
+      }
+    },
+    {
+      "name": "LITT UP KYOTO",
+      "distance": "約998m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9888794,135.7693243",
+      "details": {
+        "addr:housenumber": "6-14",
+        "addr:postcode": "6050981",
+        "addr:street": "本町通",
+        "amenity": "cafe",
+        "name": "LITT UP KYOTO",
+        "opening_hours": "Mo-Su 10:00-16:00"
+      }
+    },
+    {
+      "name": "KITTEN COMPANY",
+      "distance": "約999m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9959717,135.7589456",
+      "details": {
+        "addr:block_number": "294-1",
+        "addr:city": "京都市",
+        "addr:province": "京都府",
+        "addr:quarter": "上諏訪町",
+        "addr:street": "五条通",
+        "addr:suburb": "下京区",
+        "amenity": "cafe",
+        "capacity": "12",
+        "cuisine": "tea;cake;curry;rice_bowl;sandwich;juice;regional;japanese",
+        "diet:organic": "yes",
+        "diet:vegan": "yes",
+        "name": "KITTEN COMPANY",
+        "name:en": "Kitten Company Cafe",
+        "name:ja": "キトゥンカンパニー",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "organic": "yes",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "name": "東寺うどん",
+      "distance": "約1002m",
+      "maps_url": "http://googleusercontent.com/maps.google.com/maps?q=34.9824441,135.7491036",
+      "details": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "東寺うどん",
+        "source": "Bing; survey"
+      }
+    }
+  ]
+}
