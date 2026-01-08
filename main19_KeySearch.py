@@ -1,16 +1,20 @@
-# まとめ： 「キーワードに該当する施設だけ をピンポイントで指名して、その施設の プロフィール全部 をダウンロードしている」という挙動になります。
-
-#2026-01-08: SVN導入テスト。ここからバージョン管理スタート！
 import os
 import json
 import requests
 import math
 import time
 from openai import OpenAI
+from dotenv import load_dotenv  # ★追加1: 読み込み用ライブラリ
+
+# .envファイルから環境変数を読み込む
+load_dotenv()  # ★追加2: これで.envの中身が有効になります
 
 # ==========================================
 # 設定
 # ==========================================
+# これで .env に書いた "OPENAI_API_KEY" が自動で読み込まれます
+
+
 client = OpenAI()
 MODEL_NAME = "gpt-5-nano-2025-08-07"
 SEARCH_RADIUS = 1000  # 1km
