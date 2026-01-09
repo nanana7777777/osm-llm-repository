@@ -37,7 +37,7 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     return int(R * c)
 
 # ==========================================
-# 2. ユーザーの意図を解析 (History対応)
+# 2. ユーザーの意図を解析 (修正版)
 # ==========================================
 def analyze_user_intent(user_input, history):
     """
@@ -47,23 +47,24 @@ def analyze_user_intent(user_input, history):
     あなたはGISデータの検索クエリ生成エンジニアです。
     ユーザーの質問と会話履歴から、OSMデータ検索用の条件をJSONで出力してください。
 
-    # データ構造のヒント
-    - 飲食店: amenity=restaurant, amenity=cafe, amenity=fast_food
-    - 買い物: shop=supermarket, shop=convenience, shop=mall
-    - 観光/公園: leisure=park, tourism=attraction
-    - 医療/施設: amenity=hospital, amenity=toilets
+    # 重要ルール: キーワードは「単語のみ」にする
+    - JSONデータはテキスト検索されます。「key=value」の形式はヒットしません。
+    - 必ず「タグの値(value)」や「名称」だけをリストに入れてください。
     
+    NG例: ["amenity=cafe", "shop=mall"]  <-- 「=」が入るとヒットしない！
+    OK例: ["cafe", "mall", "restaurant", "starbucks"]
+
+    # 包含関係の推論
+    - 「おもちゃ」などの専門店がない場合 -> ["mall", "variety_store", "department_store"] を含める。
+    - 「雨」の場合 -> ["mall", "indoor", "roof"] などを含める。
+    - 「食事」の場合 -> ["restaurant", "cafe", "fast_food", "food_court"]
+
     # 出力フォーマット (JSON)
     {
-      "keywords": ["検索語句1", "検索語句2"],  # 日本語・英語の名称やタグ値 (OR検索用)
-      "category_hint": "検索カテゴリの説明",    # LLMへの申し送り事項
-      "sort_by": "distance"                   # 通常は distance
+      "keywords": ["検索語句1", "検索語句2"], 
+      "category_hint": "検索カテゴリの説明",
+      "sort_by": "distance"
     }
-    
-    # ルール
-    - 「おもちゃ屋」なら keywordsに ["toy", "hobby", "model"] を含める
-    - 「雨でも」なら keywordsに ["mall", "department_store", "indoor", "roof"] などを含める
-    - 「テイクアウト」なら keywordsに ["takeaway", "bento", "burger"] などを含める
     """
 
     # 直近の会話履歴をテキスト化してプロンプトに埋め込む
@@ -82,7 +83,6 @@ def analyze_user_intent(user_input, history):
     except Exception as e:
         print(f"解析エラー: {e}")
         return {"keywords": [], "category_hint": "不明", "sort_by": "distance"}
-
 # ==========================================
 # 3. データ検索ロジック
 # ==========================================
