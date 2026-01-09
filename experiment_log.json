@@ -1,0 +1,18 @@
+[
+  {
+    "user_input": "子どもと入れるカフェはある？",
+    "intent_analysis": {
+      "keywords": [
+        "cafe",
+        "family_friendly",
+        "restaurant",
+        "food_court",
+        "children"
+      ],
+      "category_hint": "子どもと一緒に入れるカフェを探しています。",
+      "sort_by": "distance"
+    },
+    "hit_count": 15,
+    "ai_response": "子どもと一緒に入れるカフェをいくつかご提案しますね！\n\n1. **スターバックス**  \n   - 距離: 約21m  \n   - テイクアウトも可能です！ (takeaway=yes)\n\n2. **BANANA LIFE**  \n   - 距離: 約61m  \n   - カフェとして子どもと一緒に過ごしやすい雰囲気です。\n\n3. **コメダ珈琲店**  \n   - 距離: 約182m  \n   - 室内席があり、子ども連れでも安心！テイクアウトもできます (takeaway=yes)。\n\nこれらのカフェは、子どもと入るのに適した場所かと思います。素敵な時間を過ごしてくださいね！"
+  }
+]

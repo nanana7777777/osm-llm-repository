@@ -187,6 +187,33 @@ def generate_response(user_input, search_results, history, intent):
     return res.choices[0].message.content
 
 # ==========================================
+# 6. 実験ログの保存
+# ==========================================
+def save_interaction_log(user_input, intent, search_results, response, filename="experiment_log.json"):
+    log_entry = {
+        "user_input": user_input,
+        "intent_analysis": intent,
+        "hit_count": len(search_results),
+        "ai_response": response,
+        # "search_results_top3": search_results[:3] # 必要なら詳細データも保存
+    }
+    
+    # 追記モードで保存（ファイルがなければ作成、あればリストに追加）
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
+            try:
+                logs = json.load(f)
+            except:
+                logs = []
+    else:
+        logs = []
+    
+    logs.append(log_entry)
+    
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(logs, f, ensure_ascii=False, indent=2)
+
+# ==========================================
 # メイン処理
 # ==========================================
 if __name__ == "__main__":
@@ -219,6 +246,9 @@ if __name__ == "__main__":
         response = generate_response(user_input, processed_results, history, intent)
         
         print(f"\nAI: {response}")
+
+        # ★追加: ログ保存
+        save_interaction_log(user_input, intent, processed_results, response)
 
         # 履歴の更新
         history.append({"role": "user", "content": user_input})
