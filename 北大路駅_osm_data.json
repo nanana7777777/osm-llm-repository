@@ -1,0 +1,2974 @@
+[
+  {
+    "type": "node",
+    "id": 339086980,
+    "lat": 35.0445739,
+    "lon": 135.7586509,
+    "tags": {
+      "int_name": "Kitaōji",
+      "local_ref": "2",
+      "name": "北大路",
+      "name:en": "Kitaōji",
+      "name:ja": "北大路",
+      "name:ko": "기타오지",
+      "name:zh": "北大路",
+      "public_transport": "stop_position",
+      "railway": "stop",
+      "ref": "K04",
+      "subway": "yes",
+      "wikidata": "Q2176324",
+      "wikipedia": "ja:北大路駅"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1311881151,
+    "lat": 35.0436129,
+    "lon": 135.7592644,
+    "tags": {
+      "highway": "traffic_signals",
+      "name": "烏丸北大路",
+      "name:en": "Karasumakitaoji"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1422959004,
+    "lat": 35.0437478,
+    "lon": 135.7576451,
+    "tags": {
+      "KSJ2:ADS": "小山北上総町50",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "都道府県",
+      "amenity": "police",
+      "check_date": "2024-09-01",
+      "name": "北大路交番",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "operator": "京都北警察署",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1422960162,
+    "lat": 35.044793,
+    "lon": 135.760727,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "京都博愛会冨田病院",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1422961842,
+    "lat": 35.045166,
+    "lon": 135.75908,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "京都警察病院",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+      "wikidata": "Q11375694"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1422970958,
+    "lat": 35.043277,
+    "lon": 135.757302,
+    "tags": {
+      "KSJ2:ADS": "小山東大野町83",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "民間",
+      "amenity": "kindergarten",
+      "name": "紫明幼稚園",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1633799154,
+    "lat": 35.044749,
+    "lon": 135.760746,
+    "tags": {
+      "KSJ2:ADS": "小山下内河原町56",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "民間",
+      "amenity": "social_facility",
+      "name": "冨田病院",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "social_facility": "group_home",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1716956363,
+    "lat": 35.043822,
+    "lon": 135.7589192,
+    "tags": {
+      "amenity": "bank",
+      "name": "中央信用金庫",
+      "operator": "中央信用金庫",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1716956433,
+    "lat": 35.0438417,
+    "lon": 135.7591388,
+    "tags": {
+      "amenity": "bank",
+      "name": "滋賀銀行",
+      "operator": "滋賀銀行",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2296984172,
+    "lat": 35.044512,
+    "lon": 135.7584871,
+    "tags": {
+      "amenity": "cafe",
+      "brand": "スターバックス",
+      "brand:en": "Starbucks",
+      "brand:ja": "スターバックス",
+      "brand:wikidata": "Q37158",
+      "cuisine": "coffee_shop",
+      "name": "スターバックス",
+      "name:en": "Starbucks",
+      "name:ja": "スターバックス",
+      "name:ja_rm": "Sutah-bakkusu",
+      "official_name": "スターバックスコーヒー",
+      "official_name:en": "Starbucks Coffee",
+      "official_name:ja": "スターバックスコーヒー",
+      "operator": "スターバックスコーヒージャパン",
+      "source": "survey",
+      "takeaway": "yes",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2296985146,
+    "lat": 35.0432288,
+    "lon": 135.7561114,
+    "tags": {
+      "name": "栄輪",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "shop": "bicycle",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2504826646,
+    "lat": 35.0446085,
+    "lon": 135.7584045,
+    "tags": {
+      "amenity": "bus_station",
+      "bus": "yes",
+      "name": "北大路バスターミナル",
+      "name:en": "Kitaoji Bus Terminal",
+      "public_transport": "station"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2504841245,
+    "lat": 35.0437739,
+    "lon": 135.7601358,
+    "tags": {
+      "bus": "yes",
+      "description": "停車する系統:1,204,205,206,北3,北8",
+      "highway": "bus_stop",
+      "name": "烏丸北大路",
+      "name:en": "Karasuma Kitaoji",
+      "name:ja-Hira": "からすまきたおおじ",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2798862456,
+    "lat": 35.0463767,
+    "lon": 135.7593388,
+    "tags": {
+      "amenity": "dentist",
+      "healthcare": "dentist",
+      "name": "柏井歯科医院",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3752454325,
+    "lat": 35.043792,
+    "lon": 135.759865,
+    "tags": {
+      "amenity": "cafe",
+      "name": "ハンデルスベーゲン 北山店"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3832752000,
+    "lat": 35.0436149,
+    "lon": 135.7593353,
+    "tags": {
+      "highway": "traffic_signals",
+      "name": "烏丸北大路",
+      "name:en": "Karasumakitaoji"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451675,
+    "lat": 35.0445647,
+    "lon": 135.7583409,
+    "tags": {
+      "bus": "yes",
+      "description": "Eのりば 金閣寺・西大路四条・京都駅・北野天満宮・二条城・佛教大学方面行\n停車する系統:205",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "E",
+      "name": "北大路バスターミナル",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451676,
+    "lat": 35.0447255,
+    "lon": 135.7583382,
+    "tags": {
+      "bus": "yes",
+      "description": "Fのりば 西賀茂車庫・玄琢・柊野方面行\n停車する系統:1, 37, 特37, 北1, M1, 北8",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "F",
+      "name": "北大路バスターミナル",
+      "name:en": "Kitaoji Bus Terminal (Subway Kitaoji Sta.)",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451677,
+    "lat": 35.0448665,
+    "lon": 135.7583409,
+    "tags": {
+      "bus": "yes",
+      "description": "Gのりば 四条大宮・京都駅・西ノ京円町・烏丸丸太町方面行\n停車する系統:204, 206",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "G",
+      "name": "北大路バスターミナル",
+      "name:en": "Kitaoji Bus Terminal (Subway Kitaoji Sta.)",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451678,
+    "lat": 35.0444534,
+    "lon": 135.7584402,
+    "tags": {
+      "bus": "yes",
+      "description": "Aのりば\n京都市交通局:京都産大方面行\n停車する系統:北3\n京都バス:34(静原・城山行),35(市原行)",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "A",
+      "name": "北大路バスターミナル",
+      "operator": "京都市交通局・京都バス",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451679,
+    "lat": 35.0446021,
+    "lon": 135.7584483,
+    "tags": {
+      "bus": "yes",
+      "description": "Aのりば \n京都市交通局:祇園・清水寺・京都駅・銀閣寺・北白川・高野・修学院方面行\n停車する系統:204, 206, 北8\n京都バス:34,35(出町柳駅行)",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "B",
+      "name": "北大路バスターミナル",
+      "operator": "京都市交通局・京都バス",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451680,
+    "lat": 35.0447386,
+    "lon": 135.7584482,
+    "tags": {
+      "bus": "yes",
+      "description": "Cのりば 出町柳駅・三条京阪・下鴨神社・四条河原町・京都駅・高野・修学院方面行\n停車する系統:1, 37, 205",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "C",
+      "name": "北大路バスターミナル",
+      "name:en": "Kitaoji Bus Terminal (Subway Kitaoji Sta.)",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451681,
+    "lat": 35.0448805,
+    "lon": 135.7584535,
+    "tags": {
+      "bus": "yes",
+      "description": "Dのりば",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "local_ref": "D",
+      "name": "北大路バスターミナル",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451682,
+    "lat": 35.0436085,
+    "lon": 135.7606245,
+    "tags": {
+      "bus": "yes",
+      "description": "停車する系統:1,北3,204,205,206,北8",
+      "highway": "bus_stop",
+      "name": "烏丸北大路",
+      "name:en": "Karasuma Kitaoji",
+      "name:ja-Hira": "からすまきたおおじ",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451683,
+    "lat": 35.0431122,
+    "lon": 135.7592137,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "烏丸北大路",
+      "name:en": "Karasuma Kitaoji",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4719451684,
+    "lat": 35.0431583,
+    "lon": 135.7594019,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "烏丸北大路",
+      "name:en": "Karasuma Kitaoji",
+      "operator": "京都市交通局",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5323286483,
+    "lat": 35.0465561,
+    "lon": 135.7581237,
+    "tags": {
+      "name": "小山花ノ木町",
+      "name:en": "Koyama-Hananokicho",
+      "name:ja": "小山花ノ木町",
+      "name:ja-Hira": "こやまはなのきちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5323286484,
+    "lat": 35.0464496,
+    "lon": 135.7564795,
+    "tags": {
+      "name": "小山板倉町",
+      "name:en": "Koyama-Itakuracho",
+      "name:ja": "小山板倉町",
+      "name:ja-Hira": "こやまいたくらちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327163664,
+    "lat": 35.0424794,
+    "lon": 135.7567424,
+    "tags": {
+      "name": "小山東大野町",
+      "name:en": "Koyama-Higashionocho",
+      "name:ja": "小山東大野町",
+      "name:ja-Hira": "こやまひがしおおのちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327163665,
+    "lat": 35.0436169,
+    "lon": 135.7566458,
+    "tags": {
+      "name": "小山西上総町",
+      "name:en": "Koyama-Nishikamifusacho",
+      "name:ja": "小山西上総町",
+      "name:ja-Hira": "こやまにしかみふさちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327163666,
+    "lat": 35.0450047,
+    "lon": 135.7591295,
+    "tags": {
+      "name": "小山北上総町",
+      "name:en": "Koyama-Kitakamifusacho",
+      "name:ja": "小山北上総町",
+      "name:ja-Hira": "こやまきたかみふさちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327163667,
+    "lat": 35.0449301,
+    "lon": 135.7574719,
+    "tags": {
+      "name": "小山下花ノ木町",
+      "name:en": "Koyama-Shimohananokicho",
+      "name:ja": "小山下花ノ木町",
+      "name:ja-Hira": "こやましもはなのきちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5327163668,
+    "lat": 35.0448598,
+    "lon": 135.7562703,
+    "tags": {
+      "name": "小山下板倉町",
+      "name:en": "Koyama-Shimoitakuracho",
+      "name:ja": "小山下板倉町",
+      "name:ja-Hira": "こやましもいたくらちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5331203243,
+    "lat": 35.0425409,
+    "lon": 135.7595319,
+    "tags": {
+      "name": "小山上総町",
+      "name:en": "Koyama-Kamifusacho",
+      "name:ja": "小山上総町",
+      "name:ja-Hira": "こやまかみふさちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6349238691,
+    "lat": 35.0445622,
+    "lon": 135.7581612,
+    "tags": {
+      "bus": "yes",
+      "description": "おりば",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "name": "北大路バスターミナル",
+      "name:en": "Kitaoji Bus Terminal",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6349238692,
+    "lat": 35.0448642,
+    "lon": 135.7581653,
+    "tags": {
+      "bus": "yes",
+      "description": "おりば",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "name": "北大路バスターミナル",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6349238693,
+    "lat": 35.0447269,
+    "lon": 135.7581639,
+    "tags": {
+      "bus": "yes",
+      "description": "おりば",
+      "highway": "bus_stop",
+      "layer": "-1",
+      "name": "北大路バスターミナル",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7252097186,
+    "lat": 35.0466066,
+    "lon": 135.7589193,
+    "tags": {
+      "amenity": "place_of_worship",
+      "name": "パーフェクトリバティ教団 京都教会",
+      "religion": "church_of_perfect_liberty"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7252100685,
+    "lat": 35.0463756,
+    "lon": 135.7590914,
+    "tags": {
+      "amenity": "place_of_worship",
+      "denomination": "lutheran",
+      "name": "日本福音ルーテル賀茂川教会",
+      "religion": "christian"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7780381707,
+    "lat": 35.0445726,
+    "lon": 135.7587094,
+    "tags": {
+      "int_name": "Kitaōji",
+      "name": "北大路",
+      "name:en": "Kitaōji",
+      "name:ja": "北大路",
+      "name:ko": "기타오지",
+      "name:zh": "北大路",
+      "public_transport": "station",
+      "railway": "station",
+      "ref": "K04",
+      "station": "subway",
+      "subway": "yes",
+      "train": "yes",
+      "wikidata": "Q2176324",
+      "wikipedia": "ja:北大路駅"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7781220421,
+    "lat": 35.0445712,
+    "lon": 135.7587678,
+    "tags": {
+      "int_name": "Kitaōji",
+      "local_ref": "1",
+      "name": "北大路",
+      "name:en": "Kitaōji",
+      "name:ja": "北大路",
+      "name:ko": "기타오지",
+      "name:zh": "北大路",
+      "public_transport": "stop_position",
+      "railway": "stop",
+      "ref": "K04",
+      "subway": "yes",
+      "wikidata": "Q2176324",
+      "wikipedia": "ja:北大路駅"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8356370050,
+    "lat": 35.043774,
+    "lon": 135.760127,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "烏丸北大路（北大路駅）",
+      "name:en": "Karasuma Kitaoji (Kitaoji Sta.)",
+      "note": "停車する系統:32,34,35,36,46",
+      "operator": "京都バス",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9247484443,
+    "lat": 35.044741,
+    "lon": 135.760928,
+    "tags": {
+      "name": "小山下内河原町",
+      "name:en": "Koyama-Shimochikawaracho",
+      "name:ja": "小山下内河原町",
+      "name:ja-Hira": "こやましもうちかわらちょう",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9417631724,
+    "lat": 35.0435879,
+    "lon": 135.7601302,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "烏丸北大路（北大路駅）",
+      "name:en": "Karasuma Kitaoji (Kitaoji Sta.)",
+      "note": "停車する系統:32,快速35,34,35",
+      "operator": "京都バス",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9518427417,
+    "lat": 35.0438686,
+    "lon": 135.7615036,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "HASEGAWA"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9518427817,
+    "lat": 35.0438568,
+    "lon": 135.760533,
+    "tags": {
+      "amenity": "dentist",
+      "name": "ひきだ歯科医院"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10291855633,
+    "lat": 35.0431877,
+    "lon": 135.7594853,
+    "tags": {
+      "brand": "LAWSON",
+      "brand:en": "LAWSON",
+      "brand:ja": "ローソン",
+      "brand:wikidata": "Q1557223",
+      "brand:wikipedia": "ja:ローソン",
+      "name": "ローソン",
+      "name:en": "Lawson",
+      "name:ja": "ローソン",
+      "name:ja_rm": "Rōson",
+      "name:ko": "로손",
+      "operator": "ローソン",
+      "shop": "convenience",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693112602,
+    "lat": 35.0461726,
+    "lon": 135.7582739,
+    "tags": {
+      "amenity": "cafe",
+      "brand": "コメダ珈琲店",
+      "brand:en": "KOMEDA'S Coffee",
+      "brand:ja": "コメダ珈琲店",
+      "brand:wikidata": "Q11302679",
+      "cuisine": "coffee_shop",
+      "indoor_seating": "yes",
+      "name": "コメダ珈琲店",
+      "name:en": "Komeda's Coffee",
+      "name:ja": "コメダ珈琲店",
+      "opening_hours": "Mo-Su,PH 07:00-21:00",
+      "outdoor_seating": "no",
+      "smoking": "no",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693112603,
+    "lat": 35.0461291,
+    "lon": 135.7582996,
+    "tags": {
+      "amenity": "restaurant",
+      "brand": "いきなり！ステーキ",
+      "brand:en": "Ikinari Steak",
+      "brand:ja": "いきなり！ステーキ",
+      "brand:wikidata": "Q21652405",
+      "cuisine": "steak_house",
+      "indoor_seating": "yes",
+      "name": "いきなり！ステーキ",
+      "name:en": "Ikinari Steak",
+      "name:ja": "いきなり！ステーキ",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693112604,
+    "lat": 35.0460885,
+    "lon": 135.7583332,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "indoor_seating": "yes",
+      "name": "ラーメン ふくちあん",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145905,
+    "lat": 35.0458386,
+    "lon": 135.7584057,
+    "tags": {
+      "alt_name:en": "Kentucky Fried Chicken",
+      "amenity": "fast_food",
+      "brand": "ケンタッキーフライドチキン",
+      "brand:en": "KFC",
+      "brand:ja": "ケンタッキーフライドチキン",
+      "brand:wikidata": "Q524757",
+      "cuisine": "chicken",
+      "name": "ケンタッキーフライドチキン",
+      "name:en": "KFC",
+      "name:ja": "ケンタッキーフライドチキン",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145906,
+    "lat": 35.0452751,
+    "lon": 135.7584571,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "大戸屋ごはん処"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145907,
+    "lat": 35.0452244,
+    "lon": 135.7582916,
+    "tags": {
+      "brand": "Honeys",
+      "brand:en": "Honeys",
+      "brand:ja": "ハニーズ",
+      "brand:wikidata": "Q11326592",
+      "clothes": "women",
+      "name": "Honeys",
+      "name:en": "Honeys",
+      "name:ja": "ハニーズ",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145908,
+    "lat": 35.0448658,
+    "lon": 135.7580129,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "そば処 小木曽製粉所"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145909,
+    "lat": 35.0448209,
+    "lon": 135.7581111,
+    "tags": {
+      "amenity": "cafe",
+      "name": "BANANA LIFE"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145910,
+    "lat": 35.0445014,
+    "lon": 135.7582527,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "100時間カレー1"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145911,
+    "lat": 35.044366,
+    "lon": 135.7584102,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "ミスタードーナツ",
+      "brand:en": "Mister Donut",
+      "brand:ja": "ミスタードーナツ",
+      "brand:wikidata": "Q1065819",
+      "cuisine": "donut",
+      "name": "ミスタードーナツ",
+      "name:en": "Mister Donut",
+      "name:ja": "ミスタードーナツ",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145912,
+    "lat": 35.0439531,
+    "lon": 135.7583217,
+    "tags": {
+      "amenity": "fast_food",
+      "brand": "マクドナルド",
+      "brand:en": "McDonald's",
+      "brand:ja": "マクドナルド",
+      "brand:wikidata": "Q38076",
+      "cuisine": "burger",
+      "name": "マクドナルド",
+      "name:en": "McDonald's",
+      "name:ja": "マクドナルド",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145913,
+    "lat": 35.043869,
+    "lon": 135.7581102,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "市場小路"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145914,
+    "lat": 35.0434648,
+    "lon": 135.757974,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "sushi",
+      "indoor_seating": "yes",
+      "name": "千鳥寿司",
+      "outdoor_seating": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145915,
+    "lat": 35.0434619,
+    "lon": 135.7579156,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "ゲンペ"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145916,
+    "lat": 35.0433504,
+    "lon": 135.7569839,
+    "tags": {
+      "name": "吉廼家",
+      "shop": "confectionery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145917,
+    "lat": 35.0440204,
+    "lon": 135.7583668,
+    "tags": {
+      "name": "オーガニックプラザ",
+      "name:en": "Organic Plaza",
+      "organic": "only",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145918,
+    "lat": 35.0441031,
+    "lon": 135.758185,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "鎌倉パスタ"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145919,
+    "lat": 35.0449785,
+    "lon": 135.7581668,
+    "tags": {
+      "brand": "無印良品",
+      "brand:en": "MUJI",
+      "brand:ja": "無印良品",
+      "brand:wikidata": "Q708789",
+      "name": "無印良品",
+      "name:en": "MUJI",
+      "name:ja": "無印良品",
+      "official_name:en": "Ryohin Keikaku",
+      "shop": "variety_store"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145920,
+    "lat": 35.044956,
+    "lon": 135.7582708,
+    "tags": {
+      "name": "ニトリEXPRESS",
+      "shop": "furniture"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145921,
+    "lat": 35.0449259,
+    "lon": 135.7584453,
+    "tags": {
+      "name": "KOHYO",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10693145922,
+    "lat": 35.0446545,
+    "lon": 135.7584657,
+    "tags": {
+      "name": "大垣書店",
+      "shop": "books"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11443473814,
+    "lat": 35.0441746,
+    "lon": 135.7583637,
+    "tags": {
+      "name": "Jupiter",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11830489925,
+    "lat": 35.043983,
+    "lon": 135.759011,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "authentication:app": "yes",
+      "brand": "Docomo Bike Share",
+      "brand:ja": "ドコモ・バイクシェア",
+      "brand:website": "https://docomo-cycle.jp/",
+      "brand:wikidata": "Q55533296",
+      "capacity": "10",
+      "fee": "yes",
+      "gbfs:name": "KT071-京都中央信用金庫 北烏丸支店",
+      "gbfs:station_id": "2351",
+      "gbfs:system_id": "docomo-cycle",
+      "name": "京都中央信用金庫 北烏丸支店",
+      "name:en": "Kyoto Chuo Shinkin Bank Kita-Karasuma",
+      "name:ja": "京都中央信用金庫 北烏丸支店",
+      "ref": "KT071"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12987656792,
+    "lat": 35.0434595,
+    "lon": 135.7590279,
+    "tags": {
+      "addr:block_number": "14",
+      "addr:city": "京都市",
+      "addr:neighbourhood": "小山上総町",
+      "addr:postcode": "603-8143",
+      "addr:province": "京都府",
+      "addr:suburb": "北区",
+      "alt_name": "Radio Mix Kyoto",
+      "amenity": "studio",
+      "email": "fm870@radiomix.kyoto",
+      "fax": "+81-75-432-5806",
+      "level": "3",
+      "name": "コミュニティラジオ京都",
+      "name:en": "Community Radio Kyoto",
+      "phone": "+81-75-432-5805",
+      "studio": "radio",
+      "website": "https://radiomix.kyoto/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13182353816,
+    "lat": 35.044001,
+    "lon": 135.760058,
+    "tags": {
+      "addr:province": "京都府",
+      "amenity": "bicycle_rental",
+      "authentication:app": "yes",
+      "brand": "HELLO CYCLING",
+      "brand:ja": "ハローサイクリング",
+      "brand:wikidata": "Q91231927",
+      "capacity": "19",
+      "contact:website": "https://www.hellocycling.jp",
+      "fee": "yes",
+      "gbfs:station_id": "16593",
+      "gbfs:system_id": "hellocycling",
+      "name": "チャリパ烏丸北大路東第２駐輪場",
+      "name:ja": "チャリパ烏丸北大路東第２駐輪場",
+      "network": "HELLO CYCLING",
+      "network:ja": "ハローサイクリング",
+      "network:wikidata": "Q91231927"
+    }
+  },
+  {
+    "type": "way",
+    "id": 28165444,
+    "center": {
+      "lat": 35.0437457,
+      "lon": 135.7611182
+    },
+    "tags": {
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 30662072,
+    "center": {
+      "lat": 35.0480681,
+      "lon": 135.7615429
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-2",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 30662081,
+    "center": {
+      "lat": 35.0447494,
+      "lon": 135.7586462
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-1",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 30662084,
+    "center": {
+      "lat": 35.0412682,
+      "lon": 135.7589655
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-2",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 66088060,
+    "center": {
+      "lat": 35.0459344,
+      "lon": 135.751578
+    },
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "maxspeed": "40",
+      "name": "今宮通",
+      "name:en": "Imamiya Street",
+      "name:etymology": "今宮神社",
+      "name:etymology:wikidata": "Q500955",
+      "name:fr": "Rue Imamiya",
+      "name:ja": "今宮通",
+      "name:ja-Hira": "いまみやどおり",
+      "name:ja-Latn": "Imamiya-dōri",
+      "source": "Bing; survey",
+      "surface": "asphalt",
+      "wikidata": "Q11376864"
+    }
+  },
+  {
+    "type": "way",
+    "id": 66088082,
+    "center": {
+      "lat": 35.0437401,
+      "lon": 135.7592859
+    },
+    "tags": {
+      "highway": "tertiary",
+      "maxspeed": "40",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "source": "Bing;survey",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 83331233,
+    "center": {
+      "lat": 35.048256,
+      "lon": 135.7578225
+    },
+    "tags": {
+      "alt_name": "賀茂川",
+      "alt_name:fr": "Rivière aux Canards",
+      "int_name": "Kamogawa",
+      "name": "鴨川",
+      "name:en": "Kamo River",
+      "name:fr": "Rivière Kamo",
+      "name:ja-Hira": "かもがわ",
+      "name:ja-Latn": "Kamo-gawa",
+      "name:ru": "Камо",
+      "name:uk": "Камо",
+      "note": "National-Land Numerical Information (River) 2006, MLIT Japan",
+      "note:ja": "国土数値情報(河川データ)平成18年国土交通省",
+      "official_name": "鴨川 (Kamogawa)",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-W05.html",
+      "waterway": "river",
+      "width": "10",
+      "wikidata": "Q27218",
+      "wikimedia_commons": "Category:Kamo River",
+      "wikipedia": "ja:鴨川 (淀川水系)"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116354471,
+    "center": {
+      "lat": 35.0436623,
+      "lon": 135.7610231
+    },
+    "tags": {
+      "alt_name": "京都市道181号京都環状線",
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116354478,
+    "center": {
+      "lat": 35.0435979,
+      "lon": 135.7587562
+    },
+    "tags": {
+      "highway": "primary",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "note": "京都市道ですが、主要地方道なので primary にしてあります",
+      "official_name": "京都環状線",
+      "official_name:en": "Kyoto Loop Line",
+      "official_name:ja": "京都環状線",
+      "official_name:ja-Hira": "きょうとかんじょうせん",
+      "official_name:ja-Latn": "Kyōto Kanjō-sen",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "181",
+      "source": "survey",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116697346,
+    "center": {
+      "lat": 35.0458372,
+      "lon": 135.7544567
+    },
+    "tags": {
+      "description": "0100005 今宮南通(1)\n0100118 今宮南通(2)\n0100119 今宮南通(3)",
+      "highway": "residential",
+      "name": "今宮南通",
+      "official_ref": "0100005;0100118;0100119",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "GSImaps/std"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116697352,
+    "center": {
+      "lat": 35.0446087,
+      "lon": 135.7552058
+    },
+    "tags": {
+      "alt_name": "小柳通(1)",
+      "highway": "residential",
+      "name": "小柳通",
+      "official_ref": "0100028",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "GSImaps/std"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116697420,
+    "center": {
+      "lat": 35.0453986,
+      "lon": 135.7561271
+    },
+    "tags": {
+      "alt_name:en": "Koromonotana dori street",
+      "alt_name:ru": "Коромонотана Дори улица",
+      "highway": "residential",
+      "name": "衣棚通",
+      "name:en": "Koromonotana street",
+      "name:ja": "衣棚通",
+      "name:ja-Hira": "ころものたなどおり",
+      "name:ja-Latn": "Koromonotana dōri",
+      "name:ru": "Коромонотана улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116782717,
+    "center": {
+      "lat": 35.0423603,
+      "lon": 135.7584177
+    },
+    "tags": {
+      "amenity": "university",
+      "landuse": "university",
+      "name": "大谷大学",
+      "name:en": "Otani University",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+      "wheelchair": "yes",
+      "wikidata": "Q386203"
+    }
+  },
+  {
+    "type": "way",
+    "id": 116782740,
+    "center": {
+      "lat": 35.0438907,
+      "lon": 135.7565444
+    },
+    "tags": {
+      "KSJ2:ADS": "小山西上総町22",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "民間",
+      "amenity": "school",
+      "name": "私立立命館小学校",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+      "wikidata": "Q11597807",
+      "wikipedia": "ja:立命館小学校"
+    }
+  },
+  {
+    "type": "way",
+    "id": 117749804,
+    "center": {
+      "lat": 35.0423813,
+      "lon": 135.7564049
+    },
+    "tags": {
+      "alt_name:en": "Koromonotana dori street",
+      "alt_name:ru": "Коромонотана Дори улица",
+      "highway": "residential",
+      "name": "衣棚通",
+      "name:en": "Koromonotana street",
+      "name:ja": "衣棚通",
+      "name:ja-Hira": "ころものたなどおり",
+      "name:ja-Latn": "Koromonotana dōri",
+      "name:ru": "Коромонотана улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 159586303,
+    "center": {
+      "lat": 35.0438615,
+      "lon": 135.7594046
+    },
+    "tags": {
+      "building": "yes",
+      "name": "相原ビル",
+      "source": "Bing; survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 220594900,
+    "center": {
+      "lat": 35.0425612,
+      "lon": 135.756754
+    },
+    "tags": {
+      "KSJ2:ADS": "小山東大野町55",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "市区町村",
+      "amenity": "school",
+      "name": "市立紫明小学校",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+      "wikidata": "Q97948597"
+    }
+  },
+  {
+    "type": "way",
+    "id": 228938218,
+    "center": {
+      "lat": 35.0462906,
+      "lon": 135.7590614
+    },
+    "tags": {
+      "amenity": "kindergarten",
+      "name": "のぞみ保育園",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "way",
+    "id": 228938219,
+    "center": {
+      "lat": 35.0433197,
+      "lon": 135.760267
+    },
+    "tags": {
+      "KSJ2:ADS": "小山上総町7",
+      "KSJ2:AdminArea": "京都府京都市北区",
+      "KSJ2:PubFacAdmin": "民間",
+      "amenity": "kindergarten",
+      "name": "上総幼児園",
+      "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+      "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+    }
+  },
+  {
+    "type": "way",
+    "id": 256019879,
+    "center": {
+      "lat": 35.0481979,
+      "lon": 135.7575882
+    },
+    "tags": {
+      "alt_name:en": "Muromachi dori street",
+      "alt_name:ru": "Муромати Дори улица",
+      "highway": "unclassified",
+      "name": "室町通",
+      "name:en": "Muromachi street",
+      "name:ja": "室町通",
+      "name:ja-Hira": "むろまちどおり",
+      "name:ja-Latn": "Muromachi dōri",
+      "name:ru": "Муромати улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 273924627,
+    "center": {
+      "lat": 35.0436872,
+      "lon": 135.7587555
+    },
+    "tags": {
+      "highway": "primary",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "note": "京都市道ですが、主要地方道なので primary にしてあります",
+      "official_name": "京都環状線",
+      "official_name:en": "Kyoto Loop Line",
+      "official_name:ja": "京都環状線",
+      "official_name:ja-Hira": "きょうとかんじょうせん",
+      "official_name:ja-Latn": "Kyōto Kanjō-sen",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "181",
+      "source": "survey",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 281324055,
+    "center": {
+      "lat": 35.0487358,
+      "lon": 135.7588789
+    },
+    "tags": {
+      "alt_name:fr": "Parc Kamogawa",
+      "leisure": "park",
+      "name": "鴨川公園",
+      "name:en": "Kamogawa Park",
+      "name:fr": "Parc de la rivière Kamo",
+      "name:ja-Hira": "かもがわこうえん",
+      "name:ja-Latn": "Kamogawa-kōen",
+      "source": "Bing; survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 481319707,
+    "center": {
+      "lat": 35.043741,
+      "lon": 135.7593215
+    },
+    "tags": {
+      "highway": "tertiary",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 550196047,
+    "center": {
+      "lat": 35.0472664,
+      "lon": 135.7585554
+    },
+    "tags": {
+      "building": "yes",
+      "name": "ギャラリー唯一無二",
+      "tourism": "gallery",
+      "website": "http://yuiitsumuni-kyoto.com/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 552002595,
+    "center": {
+      "lat": 35.043952,
+      "lon": 135.7605958
+    },
+    "tags": {
+      "addr:block_number": "48",
+      "addr:city": "京都市",
+      "addr:housenumber": "23",
+      "addr:postcode": "6038132",
+      "addr:province": "京都府",
+      "addr:quarter": "小山下内河原町",
+      "addr:suburb": "北区",
+      "building": "yes",
+      "name": "Bike Laboratory",
+      "opening_hours": "10:00-19:00",
+      "payment:cash": "yes",
+      "phone": "+81 0752031382",
+      "service:bicycle:diy": "yes",
+      "service:bicycle:rental": "yes",
+      "service:bicycle:repair": "yes",
+      "shop": "bicycle",
+      "website": "https://www.instagram.com/bike_labo/?hl=ja"
+    }
+  },
+  {
+    "type": "way",
+    "id": 552002605,
+    "center": {
+      "lat": 35.0438732,
+      "lon": 135.7604176
+    },
+    "tags": {
+      "addr:city": "京都府京都市",
+      "addr:neighbourhood": "４８",
+      "addr:quarter": "小山下内河原町",
+      "addr:suburb": "北区",
+      "building": "yes",
+      "name": "相生餅"
+    }
+  },
+  {
+    "type": "way",
+    "id": 554735241,
+    "center": {
+      "lat": 35.0433902,
+      "lon": 135.7572153
+    },
+    "tags": {
+      "amenity": "restaurant",
+      "building": "yes",
+      "cuisine": "japanese",
+      "name": "御食事処みなとや",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "type": "way",
+    "id": 554735243,
+    "center": {
+      "lat": 35.043404,
+      "lon": 135.7572651
+    },
+    "tags": {
+      "amenity": "restaurant",
+      "branch": "北大路駅前店",
+      "brand": "CoCo壱番屋",
+      "brand:en": "CoCo ICHIBANYA",
+      "brand:ja": "CoCo壱番屋",
+      "brand:wikidata": "Q5986105",
+      "brand:wikipedia": "en:Ichibanya",
+      "building": "yes",
+      "cuisine": "curry;japanese",
+      "name": "CoCo壱番屋",
+      "name:en": "CoCo ICHIBANYA",
+      "name:ja": "CoCo壱番屋",
+      "short_name": "ココイチ",
+      "short_name:en": "CoCoICHI",
+      "short_name:ja": "ココイチ",
+      "takeaway": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 554735290,
+    "center": {
+      "lat": 35.043458,
+      "lon": 135.7584812
+    },
+    "tags": {
+      "addr:block_number": "14-16",
+      "addr:city": "京都市",
+      "addr:postcode": "603-8143",
+      "addr:province": "京都府",
+      "addr:quarter": "小山上総町",
+      "addr:suburb": "北区",
+      "building": "yes",
+      "name": "有限会社アメリカヤ楽器店",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "way",
+    "id": 554751921,
+    "center": {
+      "lat": 35.0421221,
+      "lon": 135.7550172
+    },
+    "tags": {
+      "highway": "primary",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "note": "京都市道ですが、主要地方道なので primary にしてあります",
+      "official_name": "京都環状線",
+      "official_name:en": "Kyoto Loop Line",
+      "official_name:ja": "京都環状線",
+      "official_name:ja-Hira": "きょうとかんじょうせん",
+      "official_name:ja-Latn": "Kyōto Kanjō-sen",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "181",
+      "source": "survey",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 618738363,
+    "center": {
+      "lat": 35.0437547,
+      "lon": 135.7559913
+    },
+    "tags": {
+      "alt_name:en": "Koromonotana dori street",
+      "alt_name:ru": "Коромонотана Дори улица",
+      "highway": "residential",
+      "name": "衣棚通",
+      "name:en": "Koromonotana street",
+      "name:ja": "衣棚通",
+      "name:ja-Hira": "ころものたなどおり",
+      "name:ja-Latn": "Koromonotana dōri",
+      "name:ru": "Коромонотана улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 618738365,
+    "center": {
+      "lat": 35.043064,
+      "lon": 135.7561975
+    },
+    "tags": {
+      "alt_name:en": "Koromonotana dori street",
+      "alt_name:ru": "Коромонотана Дори улица",
+      "highway": "residential",
+      "name": "衣棚通",
+      "name:en": "Koromonotana street",
+      "name:ja": "衣棚通",
+      "name:ja-Hira": "ころものたなどおり",
+      "name:ja-Latn": "Koromonotana dōri",
+      "name:ru": "Коромонотана улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 618738367,
+    "center": {
+      "lat": 35.0416707,
+      "lon": 135.7572388
+    },
+    "tags": {
+      "alt_name:en": "Muromachi dori street",
+      "alt_name:ru": "Муромати Дори улица",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "室町通",
+      "name:en": "Muromachi street",
+      "name:ja": "室町通",
+      "name:ja-Hira": "むろまちどおり",
+      "name:ja-Latn": "Muromachi dōri",
+      "name:ru": "Муромати улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing;survey",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 618738368,
+    "center": {
+      "lat": 35.0435649,
+      "lon": 135.7571345
+    },
+    "tags": {
+      "alt_name:en": "Muromachi dori street",
+      "alt_name:ru": "Муромати Дори улица",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "室町通",
+      "name:en": "Muromachi street",
+      "name:ja": "室町通",
+      "name:ja-Hira": "むろまちどおり",
+      "name:ja-Latn": "Muromachi dōri",
+      "name:ru": "Муромати улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing;survey",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 619020203,
+    "center": {
+      "lat": 35.0450606,
+      "lon": 135.7571967
+    },
+    "tags": {
+      "alt_name:en": "Muromachi dori street",
+      "alt_name:ru": "Муромати Дори улица",
+      "highway": "residential",
+      "maxspeed": "20",
+      "name": "室町通",
+      "name:en": "Muromachi street",
+      "name:ja": "室町通",
+      "name:ja-Hira": "むろまちどおり",
+      "name:ja-Latn": "Muromachi dōri",
+      "name:ru": "Муромати улица",
+      "oneway": "yes",
+      "oneway:bicycle": "no",
+      "source": "Bing;survey",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "type": "way",
+    "id": 619020207,
+    "center": {
+      "lat": 35.0451276,
+      "lon": 135.7592779
+    },
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "maxspeed": "40",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "source": "Bing;survey",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 721928714,
+    "center": {
+      "lat": 35.0484415,
+      "lon": 135.7588574
+    },
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "maxspeed": "40",
+      "name": "加茂街道",
+      "name:en": "Kamo kaido Ave",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833545113,
+    "center": {
+      "lat": 35.0448677,
+      "lon": 135.7586486
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-1",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833545114,
+    "center": {
+      "lat": 35.0412634,
+      "lon": 135.7590624
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-2",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833545115,
+    "center": {
+      "lat": 35.0447592,
+      "lon": 135.7587616
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-1",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 833545145,
+    "center": {
+      "lat": 35.0480438,
+      "lon": 135.7616238
+    },
+    "tags": {
+      "KSJ2:LIN": "烏丸線",
+      "electrified": "contact_line",
+      "frequency": "0",
+      "gauge": "1435",
+      "layer": "-2",
+      "name": "京都市営地下鉄烏丸線",
+      "name:en": "Karasuma Line",
+      "name:ja": "京都市営地下鉄烏丸線",
+      "name:zh": "乌丸线",
+      "name:zh-Hans": "乌丸线",
+      "name:zh-Hant": "烏丸線",
+      "note": "National-Land Numerical Information (Railway) 2007, MLIT Japan",
+      "note:ja": "国土数値情報（鉄道データ）平成19年　国土交通省",
+      "operator": "京都市",
+      "operator:ja": "京都市",
+      "railway": "subway",
+      "source": "KSJ2",
+      "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html",
+      "tunnel": "yes",
+      "voltage": "1500"
+    }
+  },
+  {
+    "type": "way",
+    "id": 910275309,
+    "center": {
+      "lat": 35.0419305,
+      "lon": 135.7593446
+    },
+    "tags": {
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "nat_name": "国道367号",
+      "nat_name:en": "National Highway Route 367",
+      "nat_name:ja": "国道367号",
+      "official_name": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "Bing, 2007-12;survey;GSImaps/std",
+      "surface": "paved",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 910275311,
+    "center": {
+      "lat": 35.0419242,
+      "lon": 135.7592638
+    },
+    "tags": {
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "nat_name": "国道367号",
+      "nat_name:en": "National Highway Route 367",
+      "nat_name:ja": "国道367号",
+      "official_name": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "Bing, 2007-12;survey;GSImaps/std",
+      "surface": "paved",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 966474548,
+    "center": {
+      "lat": 35.0422205,
+      "lon": 135.7550155
+    },
+    "tags": {
+      "highway": "primary",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "note": "京都市道ですが、主要地方道なので primary にしてあります",
+      "official_name": "京都環状線",
+      "official_name:en": "Kyoto Loop Line",
+      "official_name:ja": "京都環状線",
+      "official_name:ja-Hira": "きょうとかんじょうせん",
+      "official_name:ja-Latn": "Kyōto Kanjō-sen",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "181",
+      "source": "survey",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 974518541,
+    "center": {
+      "lat": 35.0436568,
+      "lon": 135.7592642
+    },
+    "tags": {
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "nat_name": "国道367号",
+      "nat_name:en": "National Highway Route 367",
+      "nat_name:ja": "国道367号",
+      "official_name": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "Bing, 2007-12;survey;GSImaps/std",
+      "surface": "paved",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "way",
+    "id": 974518542,
+    "center": {
+      "lat": 35.0437016,
+      "lon": 135.7592996
+    },
+    "tags": {
+      "alt_name": "京都市道181号京都環状線",
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1021126042,
+    "center": {
+      "lat": 35.0437141,
+      "lon": 135.7598111
+    },
+    "tags": {
+      "alt_name": "京都市道181号京都環状線",
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1021126043,
+    "center": {
+      "lat": 35.0436249,
+      "lon": 135.7596908
+    },
+    "tags": {
+      "alt_name": "京都市道181号京都環状線",
+      "highway": "trunk",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1025061155,
+    "center": {
+      "lat": 35.0453239,
+      "lon": 135.7609652
+    },
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "maxspeed": "40",
+      "name": "加茂街道",
+      "name:en": "Kamo Ave",
+      "name:fr": "Avenue Kamo",
+      "name:ja-Hira": "かもかいどう",
+      "name:ja-Latn": "Kamo-kaidō",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1025061156,
+    "center": {
+      "lat": 35.0466489,
+      "lon": 135.7596382
+    },
+    "tags": {
+      "highway": "tertiary",
+      "lanes": "2",
+      "maxspeed": "40",
+      "name": "今宮通",
+      "name:en": "Imamiya Street",
+      "name:etymology": "今宮神社",
+      "name:etymology:wikidata": "Q500955",
+      "name:fr": "Rue Imamiya",
+      "name:ja": "今宮通",
+      "name:ja-Hira": "いまみやどおり",
+      "name:ja-Latn": "Imamiya-dōri",
+      "source": "Bing; survey",
+      "wikidata": "Q11376864"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1149356299,
+    "center": {
+      "lat": 35.0436139,
+      "lon": 135.7592998
+    },
+    "tags": {
+      "alt_name": "京都市道181号京都環状線",
+      "highway": "trunk_link",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "北大路通",
+      "name:en": "Kitaōji Street",
+      "name:fr": "Rue Kitaōji",
+      "name:ja": "北大路通",
+      "name:ja-Hira": "きたおおじどおり",
+      "name:ja-Latn": "Kitaōji-dōri",
+      "official_name": "国道367号",
+      "official_name:en": "National Highway Route 367",
+      "official_name:ja": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "survey;GSImaps/std",
+      "surface": "asphalt",
+      "wikidata": "Q11401356",
+      "wikipedia": "ja:北大路通"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1149356300,
+    "center": {
+      "lat": 35.0436587,
+      "lon": 135.7593352
+    },
+    "tags": {
+      "highway": "trunk_link",
+      "lanes": "2",
+      "maxspeed": "50",
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja": "烏丸通",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "nat_name": "国道367号",
+      "nat_name:en": "National Route 367",
+      "official_name": "国道367号",
+      "oneway": "yes",
+      "oneway:bicycle": "yes",
+      "ref": "367",
+      "source": "Bing, 2007-12;survey;GSImaps/std",
+      "surface": "paved",
+      "wikidata": "Q6368656"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 357798,
+    "center": {
+      "lat": 35.1638223,
+      "lon": 135.7931975
+    },
+    "tags": {
+      "admin_level": "8",
+      "boundary": "administrative",
+      "land_area": "administrative",
+      "name": "左京区",
+      "name:en": "Sakyō Ward",
+      "name:fr": "Arrondissement de Sakyō",
+      "name:ja-Hira": "さきょうく",
+      "name:ja-Latn": "Sakyō-ku",
+      "name:ko": "사쿄구",
+      "name:ru": "Сакё",
+      "source": "KSJ2/N03",
+      "start_date": "1929-04-01",
+      "type": "boundary",
+      "wikidata": "Q1321832",
+      "wikimedia_commons": "Category:Sakyō-ku, Kyoto",
+      "wikipedia": "ja:左京区"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 357805,
+    "center": {
+      "lat": 35.096887,
+      "lon": 135.7097585
+    },
+    "tags": {
+      "admin_level": "8",
+      "alt_name:fr": "Arrondissement de Kita",
+      "boundary": "administrative",
+      "land_area": "administrative",
+      "name": "北区",
+      "name:en": "Kita Ward",
+      "name:fr": "Arrondissement Nord",
+      "name:ja-Hira": "きたく",
+      "name:ja-Latn": "Kita-ku",
+      "name:ko": "기타구",
+      "name:ru": "Кита",
+      "source": "KSJ2/N03",
+      "start_date": "1955-09-01",
+      "type": "boundary",
+      "wikidata": "Q1154970",
+      "wikimedia_commons": "Category:Kita-ku, Kyoto",
+      "wikipedia": "ja:北区 (京都市)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 536800,
+    "center": {
+      "lat": 35.0096008,
+      "lon": 135.7707324
+    },
+    "tags": {
+      "colour": "#3CB371",
+      "from": "国際会館",
+      "name": "京都市営地下鉄烏丸線 : :国際会館→竹田",
+      "name:en": "Karasuma Line (Kokusaikaikan → Takeda)",
+      "name:es": "Línea Karasuma (Kokusaikaikan → Takeda)",
+      "name:ja": "京都市営地下鉄烏丸線 : :国際会館→竹田",
+      "name:zh": "京都市营地下铁乌丸线：国际会馆→竹田",
+      "network": "京都市営地下鉄",
+      "network:en": "Kyoto Municipal Subway",
+      "note": "K01>K15",
+      "public_transport:version": "2",
+      "ref": "K",
+      "route": "subway",
+      "to": "竹田",
+      "type": "route",
+      "wikidata": "Q762347",
+      "wikipedia": "ja:京都市営地下鉄烏丸線"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 1616212,
+    "center": {
+      "lat": 35.0450289,
+      "lon": 135.7583214
+    },
+    "tags": {
+      "building": "yes",
+      "name": "キタオオジタウン",
+      "name:en": "Aeon Mall Kitaoji",
+      "shop": "mall",
+      "type": "multipolygon",
+      "wikidata": "Q11296717",
+      "wikipedia": "ja:キタオオジタウン"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3649163,
+    "center": {
+      "lat": 35.015781,
+      "lon": 135.7458075
+    },
+    "tags": {
+      "from": "京都駅前",
+      "name": "洛バス101号系統",
+      "name:en": "RAKU BUS 101",
+      "network": "京都市営バス",
+      "network:en": "Kyoto City Bus",
+      "network:ja": "京都市営バス",
+      "network:wikidata": "Q4858667",
+      "network:wikipedia": "ja:京都市営バス",
+      "operator": "京都市交通局",
+      "public_transport:version": "1",
+      "ref": "101",
+      "route": "bus",
+      "to": "北大路バスターミナル",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 3649326,
+    "center": {
+      "lat": 35.033311,
+      "lon": 135.7619375
+    },
+    "tags": {
+      "from": "北大路バスターミナル",
+      "name": "洛バス102号系統",
+      "name:en": "RAKU BUS 102",
+      "network": "京都市営バス",
+      "network:en": "Kyoto City Bus",
+      "network:ja": "京都市営バス",
+      "network:wikidata": "Q4858667",
+      "operator": "京都市交通局",
+      "public_transport:version": "1",
+      "ref": "102",
+      "route": "bus",
+      "to": "錦林車庫前",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 6456961,
+    "center": {
+      "lat": 35.0085109,
+      "lon": 135.7597553
+    },
+    "tags": {
+      "name": "烏丸通",
+      "name:en": "Karasuma Street",
+      "name:fr": "Rue Karasuma",
+      "name:ja-Hira": "からすまどおり",
+      "name:ja-Latn": "Karasuma-dōri",
+      "name:ru": "Карасума проспект",
+      "route": "road",
+      "type": "route",
+      "wikidata": "Q6368656",
+      "wikimedia_commons": "Category:Karasuma Street",
+      "wikipedia": "ja:烏丸通"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7930691,
+    "center": {
+      "lat": 35.0271882,
+      "lon": 135.7425995
+    },
+    "tags": {
+      "alt_name": "賀茂川",
+      "alt_name:fr": "Rivière aux Canards",
+      "destination": "桂川",
+      "name": "鴨川",
+      "name:en": "Kamo River",
+      "name:fr": "Rivière Kamo",
+      "name:ja-Hira": "かもがわ",
+      "name:ja-Latn": "Kamo-gawa",
+      "name:ru": "Камо",
+      "name:uk": "Камо",
+      "type": "waterway",
+      "waterway": "river",
+      "wikidata": "Q27218",
+      "wikimedia_commons": "Category:Kamo River",
+      "wikipedia": "ja:鴨川 (淀川水系)"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 7966765,
+    "center": {
+      "lat": 35.0446228,
+      "lon": 135.7589743
+    },
+    "tags": {
+      "name": "北大路",
+      "name:en": "Kitaōji",
+      "name:ja": "北大路",
+      "name:zh": "北大路",
+      "public_transport": "stop_area",
+      "public_transport:version": "2",
+      "ref": "K04",
+      "type": "public_transport"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8030560,
+    "center": {
+      "lat": 35.0096057,
+      "lon": 135.7706515
+    },
+    "tags": {
+      "colour": "#3CB371",
+      "from": "竹田",
+      "name": "京都市営地下鉄烏丸線 : :竹田→国際会館",
+      "name:en": "Karasuma Line (Takeda → Kokusaikaikan)",
+      "name:ja": "京都市営地下鉄烏丸線 : :竹田→国際会館",
+      "name:zh": "京都市营地下铁乌丸线：竹田→国际会馆",
+      "network": "京都市営地下鉄",
+      "network:en": "Kyoto Municipal Subway",
+      "note": "K15>K01",
+      "operator": "京都市交通局",
+      "public_transport:version": "2",
+      "ref": "K",
+      "route": "subway",
+      "to": "国際会館",
+      "type": "route",
+      "wikidata": "Q762347",
+      "wikipedia": "en:Karasuma Line"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 8736759,
+    "center": {
+      "lat": 35.2295089,
+      "lon": 135.8546172
+    },
+    "tags": {
+      "name": "国道367号",
+      "name:en": "National Highway Route 367",
+      "name:ja": "国道367号",
+      "name:ja-Hira": "こくどうさんびゃくろくじゅうななごう",
+      "name:ja-Latn": "Kokudou 367 Gou",
+      "network": "JP:national",
+      "official_name": "一般国道367号",
+      "route": "road",
+      "type": "route",
+      "wikidata": "Q405076",
+      "wikipedia": "ja:国道367号"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 9415273,
+    "center": {
+      "lat": 35.0331842,
+      "lon": 135.7619375
+    },
+    "tags": {
+      "from": "北大路バスターミナル",
+      "name": "洛バス102号系統",
+      "name:en": "RAKU BUS 102",
+      "network": "京都市営バス",
+      "network:en": "Kyoto City Bus",
+      "network:ja": "京都市営バス",
+      "network:wikidata": "Q4858667",
+      "operator": "京都市交通局",
+      "public_transport:version": "1",
+      "ref": "102",
+      "route": "bus",
+      "to": "錦林車庫前",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10238281,
+    "center": {
+      "lat": 34.9420607,
+      "lon": 135.7707324
+    },
+    "tags": {
+      "colour": "#E7A61A",
+      "from": "国際会館",
+      "from:en": "Kokusaikaikan",
+      "name": "京都地下鉄烏丸線・近鉄京都線 (国際会館 =>新田辺)",
+      "name:de": "Kyoto U-Bahn Kintetsu Kyoto-Linie (Kokusaikaikan => Shin-Tanabe)",
+      "name:en": "Kyoto Subway - Kintetsu Kyoto Line (Kokusaikaikan => Shin-Tanabe)",
+      "name:es": "Metro de Kyoto - Línea Kintetsu Kyoto (Kokusaikaikan => Shin-Tanabe)",
+      "name:ja": "京都地下鉄烏丸線・近鉄京都線 (国際会館 =>新田辺)",
+      "name:zh": "京都地下铁乌丸线·近铁京都线（国际会馆→新田边）",
+      "network": "京都市営地下鉄;近畿日本鉄道",
+      "network:en": "Kyoto Municipal Subway;Kintetsu Railway",
+      "network:metro": "京都市営地下鉄",
+      "operator": "京都市営地下鉄;京都市交通局;近畿日本鉄道",
+      "operator:en": "Kyoto Municipal Subway;Kintetsu Railway",
+      "operator:ja": "京都市営地下鉄;近畿日本鉄道",
+      "public_transport:version": "2",
+      "ref": "K;B",
+      "route": "train",
+      "to": "新田辺",
+      "to:en": "Shin-Tanabe",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 10241506,
+    "center": {
+      "lat": 34.9420315,
+      "lon": 135.7706207
+    },
+    "tags": {
+      "colour": "#E7A61A",
+      "name": "近鉄京都線・京都地下鉄烏丸線 (新田辺 => 国際会館)",
+      "name:de": "Kintetsu Kyoto-Linie - Kyoto U-Bahn (Shin-Tanabe => Kokusaikaikan)",
+      "name:en": "Kintetsu Kyoto Line - Kyoto Subway (Shin-Tanabe => Kokusaikaikan)",
+      "name:es": "Línea Kintetsu Kyoto - Metro de Kyoto (Shin-Tanabe => Kokusaikaikan)",
+      "name:ja": "近鉄京都線・京都地下鉄烏丸線 (新田辺 => 国際会館)",
+      "name:zh": "近铁京都线·京都地下铁乌丸线（新田边→国际会馆）",
+      "network": "近畿日本鉄道;京都市営地下鉄",
+      "network:en": "Kintetsu Railway;Kyoto Municipal Subway",
+      "network:metro": "京都市営地下鉄",
+      "operator": "近畿日本鉄道;京都市営地下鉄",
+      "operator:en": "Kintetsu Railway;Kyoto Municipal Subway",
+      "operator:ja": "近畿日本鉄道;京都市営地下鉄",
+      "public_transport:version": "2",
+      "ref": "B;K",
+      "route": "train",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 11588662,
+    "center": {
+      "lat": 35.0100537,
+      "lon": 135.7579596
+    },
+    "tags": {
+      "name": "室町通",
+      "name:en": "Muromachi Street",
+      "name:fr": "Rue Muromachi",
+      "name:ja": "室町通",
+      "name:ja-Hira": "むろまちどおり",
+      "name:ja-Latn": "Muromachi-dōri",
+      "name:ru": "Муромати улица",
+      "route": "road",
+      "type": "route",
+      "wikidata": "Q4355950",
+      "wikimedia_commons": "Category:Muromachi Street",
+      "wikipedia": "ja:室町通"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 11588663,
+    "center": {
+      "lat": 35.0302072,
+      "lon": 135.7566408
+    },
+    "tags": {
+      "alt_name:en": "Koromonotana dori street",
+      "alt_name:ru": "Коромонотана Дори улица",
+      "name": "衣棚通",
+      "name:en": "Koromonotana street",
+      "name:ja": "衣棚通",
+      "name:ja-Hira": "ころものたなどおり",
+      "name:ja-Latn": "Koromonotana dōri",
+      "name:ru": "Коромонотана улица",
+      "route": "road",
+      "type": "route",
+      "wikidata": "Q11626378",
+      "wikipedia": "ja:衣棚通"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13672960,
+    "center": {
+      "lat": 35.0548718,
+      "lon": 135.7727086
+    },
+    "tags": {
+      "description": "烏丸北大路発国際会館駅前行",
+      "name": "46系統　烏丸北大路発",
+      "operator": "京都バス",
+      "ref": "46",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13672961,
+    "center": {
+      "lat": 35.0548029,
+      "lon": 135.7726574
+    },
+    "tags": {
+      "description": "国際会館駅前発烏丸北大路行",
+      "name": "46系統　国際会館駅前発",
+      "operator": "京都バス",
+      "ref": "46",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13693170,
+    "center": {
+      "lat": 35.0503286,
+      "lon": 135.7607987
+    },
+    "tags": {
+      "description": "京都産大前発出町柳駅前行",
+      "name": "36系統　京都産大前発",
+      "operator": "京都バス",
+      "ref": "36",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13693171,
+    "center": {
+      "lat": 35.0512049,
+      "lon": 135.7607987
+    },
+    "tags": {
+      "description": "出町柳駅前発京都産大前行",
+      "name": "36系統　出町柳駅前発",
+      "operator": "京都バス",
+      "ref": "36",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13726919,
+    "center": {
+      "lat": 35.0512049,
+      "lon": 135.7607987
+    },
+    "tags": {
+      "description": "出町柳駅前発京都産大前行",
+      "name": "快速35系統　出町柳駅前発",
+      "operator": "京都バス",
+      "ref": "快速35",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13726920,
+    "center": {
+      "lat": 35.0511579,
+      "lon": 135.7639982
+    },
+    "tags": {
+      "description": "京都産大前発出町柳駅前行",
+      "name": "快速35系統　京都産大前発",
+      "operator": "京都バス",
+      "ref": "快速35",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13727990,
+    "center": {
+      "lat": 35.0655349,
+      "lon": 135.7564455
+    },
+    "tags": {
+      "description": "市原発北大路バスターミナル行",
+      "name": "35系統　市原発",
+      "operator": "京都バス",
+      "ref": "35",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13727991,
+    "center": {
+      "lat": 35.0654808,
+      "lon": 135.7564455
+    },
+    "tags": {
+      "description": "北大路バスターミナル発市原行",
+      "name": "35系統　北大路バスターミナル発",
+      "operator": "京都バス",
+      "ref": "35",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13734123,
+    "center": {
+      "lat": 35.1483391,
+      "lon": 135.7655658
+    },
+    "tags": {
+      "description": "広河原発出町柳駅前行",
+      "name": "32系統　広河原発",
+      "operator": "京都バス",
+      "ref": "32",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13734124,
+    "center": {
+      "lat": 35.1481948,
+      "lon": 135.7655658
+    },
+    "tags": {
+      "description": "出町柳駅前発広河原行",
+      "name": "32系統　出町柳駅前発",
+      "operator": "京都バス",
+      "ref": "32",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 13737274,
+    "center": {
+      "lat": 35.0503286,
+      "lon": 135.7605211
+    },
+    "tags": {
+      "description": "京都産大前発出町柳駅前行",
+      "name": "30系統　京都産大前発",
+      "operator": "京都バス",
+      "ref": "30",
+      "route": "bus",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 16538705,
+    "center": {
+      "lat": 35.0465986,
+      "lon": 135.7553702
+    },
+    "tags": {
+      "from": "西賀茂車庫前",
+      "name": "Bus 1: 西賀茂車庫前 => 出町柳駅前",
+      "operator": "京都市交通局",
+      "public_transport:version": "2",
+      "ref": "1",
+      "route": "bus",
+      "to": "出町柳駅前",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 16539565,
+    "center": {
+      "lat": 35.0466757,
+      "lon": 135.7553991
+    },
+    "tags": {
+      "from": "出町柳駅前",
+      "name": "Bus 1: 出町柳駅前 => 西賀茂車庫前",
+      "operator": "京都市交通局",
+      "public_transport:version": "2",
+      "ref": "1",
+      "route": "bus",
+      "to": "西賀茂車庫前",
+      "type": "route"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 18973591,
+    "center": {
+      "lat": 35.0086951,
+      "lon": 135.7570637
+    },
+    "tags": {
+      "alt_name": "京都環状線",
+      "from": "京都府京都市東山区元粟田学区西海子町",
+      "name": "京都市道181号　京都環状線",
+      "name:en": "Kyoto City Road 181 Kyoto Loop Line",
+      "name:ja": "京都市道181号　京都環状線",
+      "name:ja-Hira": "きょうとしどう181ごう きょうとかんじょうせん",
+      "name:ja-Latn": "Kyōtoshidō 181-gō Kyōto Kanjō-sen",
+      "network": "JP:municipal:kyoto",
+      "ref": "181",
+      "route": "road",
+      "to": "京都府京都市南区東九条柳下町[",
+      "type": "route",
+      "via": "東大路通;北大路通;西大路通;十条通",
+      "wikidata": "Q11375132",
+      "wikipedia": "ja:京都市道181号京都環状線"
+    }
+  },
+  {
+    "type": "relation",
+    "id": 19757280,
+    "center": {
+      "lat": 35.0457761,
+      "lon": 135.7490673
+    },
+    "tags": {
+      "name": "今宮通",
+      "name:en": "Imamiya Street",
+      "name:etymology": "今宮神社",
+      "name:etymology:wikidata": "Q500955",
+      "name:fr": "Rue Imamiya",
+      "name:ja": "今宮通",
+      "name:ja-Hira": "いまみやどおり",
+      "name:ja-Latn": "Imamiya-dōri",
+      "route": "road",
+      "type": "route",
+      "wikidata": "Q11376864",
+      "wikimedia_commons": "Category:Imamiya Street",
+      "wikipedia": "ja:今宮通"
+    }
+  }
+]
