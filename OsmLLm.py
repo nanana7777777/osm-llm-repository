@@ -64,20 +64,20 @@ def analyze_user_intent(user_input, history):
     1. 最優先事項: 【現在の質問】の内容を最優先でキーワード化してください。
     2. 履歴の扱い: 履歴は「場所」の文脈理解にのみ使い、テーマは【現在の質問】のみを採用してください。
 
-    # ★キーワード生成の極意（ここが重要）
-    - ユーザーの言葉が「抽象的」な場合、データに存在しそうな【具体的な施設タグ】に変換してください。
-      - "誕生日" -> ["restaurant", "steak", "cake", "gift", "shopping"]
-      - "暇つぶし" -> ["cafe", "books", "park", "mall"]
-      - "デート" -> ["cafe", "restaurant", "park", "bar"]
-      - "コンビニ" -> ["convenience"] (※"convenience_store"だとヒットしないため単語を短く！)
+    # ★出力言語のルール（ここが重要）
+    - keywords (検索タグ): 原則として【英語単語】に変換してください。
+      - "誕生日" -> ["restaurant", "cake"]
+      - "コンビニ" -> ["convenience"]
     
-    - キーワードは「英語の単語」単体で出力してください。
+    - locations (場所名): ユーザーが言及した固有名詞は【日本語のまま】出力してください。
+      - NG: "Starbucks"
+      - OK: "スターバックス"
     
     # 出力フォーマット (JSON)
     {
-      "keywords": ["keyword1", "keyword2", "keyword3"], 
-      "locations": ["PlaceA", "PlaceB"],
-      "category_hint": "ユーザーへの表示用カテゴリ名（日本語）"
+      "keywords": ["keyword1", "keyword2"], 
+      "locations": ["場所A", "場所B"],
+      "category_hint": "カテゴリ名"
     }
     """
 
