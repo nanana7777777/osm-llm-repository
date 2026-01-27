@@ -12,7 +12,7 @@ load_dotenv()
 # ==========================================
 client = OpenAI()
 MODEL_NAME = "gpt-4o-mini"  # コストパフォーマンスの良いモデル推奨
-CURRENT_LAT = 35.0445726    # 北大路駅周辺と仮定
+CURRENT_LAT = 35.0445726    # 北大路駅周辺と仮定 (デフォルト)
 CURRENT_LON = 135.7587094
 JSON_FILE_PATH = "北大路駅_osm_data.json"
 
@@ -36,6 +36,19 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
     return int(R * c)
 
+# ★追加: 名前から座標を探す関数
+def find_location_center(data, place_name):
+    for item in data:
+        tags = item.get("tags", {})
+        name = tags.get("name", "")
+        # 部分一致で探す (例: "立命館" で "立命館小学校" をヒットさせる)
+        if place_name in name:
+            lat = item.get("lat") or item.get("center", {}).get("lat")
+            lon = item.get("lon") or item.get("center", {}).get("lon")
+            if lat and lon:
+                return lat, lon
+    return None, None
+
 # ==========================================
 # 2. ユーザーの意図を解析 (修正版)
 # ==========================================
@@ -47,27 +60,28 @@ def analyze_user_intent(user_input, history):
     あなたはGISデータの検索クエリ生成エンジニアです。
     ユーザーの質問と会話履歴から、OSMデータ検索用の条件をJSONで出力してください。
 
-    # 重要ルール: キーワードは「単語のみ」にする
-    - JSONデータはテキスト検索されます。「key=value」の形式はヒットしません。
-    - 必ず「タグの値(value)」や「名称」だけをリストに入れてください。
+    # 重要ルール
+    1. 最優先事項: 【現在の質問】の内容を最優先でキーワード化してください。
+    2. 履歴の扱い: 履歴は「場所」の文脈理解にのみ使い、テーマは【現在の質問】のみを採用してください。
+
+    # ★キーワード生成の極意（ここが重要）
+    - ユーザーの言葉が「抽象的」な場合、データに存在しそうな【具体的な施設タグ】に変換してください。
+      - "誕生日" -> ["restaurant", "steak", "cake", "gift", "shopping"]
+      - "暇つぶし" -> ["cafe", "books", "park", "mall"]
+      - "デート" -> ["cafe", "restaurant", "park", "bar"]
+      - "コンビニ" -> ["convenience"] (※"convenience_store"だとヒットしないため単語を短く！)
     
-    NG例: ["amenity=cafe", "shop=mall"]  <-- 「=」が入るとヒットしない！
-    OK例: ["cafe", "mall", "restaurant", "starbucks"]
-
-    # 包含関係の推論
-    - 「おもちゃ」などの専門店がない場合 -> ["mall", "variety_store", "department_store"] を含める。
-    - 「雨」の場合 -> ["mall", "indoor", "roof"] などを含める。
-    - 「食事」の場合 -> ["restaurant", "cafe", "fast_food", "food_court"]
-
+    - キーワードは「英語の単語」単体で出力してください。
+    
     # 出力フォーマット (JSON)
     {
-      "keywords": ["検索語句1", "検索語句2"], 
-      "category_hint": "検索カテゴリの説明",
-      "sort_by": "distance"
+      "keywords": ["keyword1", "keyword2", "keyword3"], 
+      "locations": ["PlaceA", "PlaceB"],
+      "category_hint": "ユーザーへの表示用カテゴリ名（日本語）"
     }
     """
 
-    # 直近の会話履歴をテキスト化してプロンプトに埋め込む
+    # 直近の会話履歴をテキスト化
     history_text = "\n".join([f"{h['role']}: {h['content']}" for h in history[-4:]])
 
     try:
@@ -75,14 +89,14 @@ def analyze_user_intent(user_input, history):
             model=MODEL_NAME,
             messages=[
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": f"履歴:\n{history_text}\n\n現在の質問: {user_input}"}
+                {"role": "user", "content": f"---履歴開始---\n{history_text}\n---履歴終了---\n\n【現在の質問】: {user_input}"}
             ],
             response_format={"type": "json_object"}
         )
         return json.loads(res.choices[0].message.content)
     except Exception as e:
         print(f"解析エラー: {e}")
-        return {"keywords": [], "category_hint": "不明", "sort_by": "distance"}
+        return {"keywords": [], "locations": [], "category_hint": "不明"}
 # ==========================================
 # 3. データ検索ロジック
 # ==========================================
@@ -91,8 +105,6 @@ def search_osm_data(all_data, criteria):
     results = []
     
     if not keywords:
-        # キーワードがない場合は、検索意図が特定の場所でない可能性があるため、全件は返さず空を返すか、
-        # 文脈によっては「全て」対象にするなどの調整が必要。今回は安全のため空。
         return []
 
     print(f"🔍 検索条件: {keywords}")
@@ -111,11 +123,12 @@ def search_osm_data(all_data, criteria):
     return results
 
 # ==========================================
-# 4. データ整形
+# 4. データ整形 (修正完了版)
 # ==========================================
-def process_data(elements):
+def process_data(elements, current_lat, current_lon):
     processed = []
     for el in elements:
+        # ★ここが抜けていたので修正しました
         tags = el.get("tags", {})
         name = tags.get("name", "名称なし")
         
@@ -127,7 +140,8 @@ def process_data(elements):
         dist_str = "距離不明"
         
         if lat and lon:
-            dist_val = calculate_distance(CURRENT_LAT, CURRENT_LON, lat, lon)
+            # ★修正: 引数の座標を使って計算
+            dist_val = calculate_distance(current_lat, current_lon, lat, lon)
             dist_str = f"約{dist_val}m"
 
         processed.append({
@@ -195,10 +209,9 @@ def save_interaction_log(user_input, intent, search_results, response, filename=
         "intent_analysis": intent,
         "hit_count": len(search_results),
         "ai_response": response,
-        # "search_results_top3": search_results[:3] # 必要なら詳細データも保存
     }
     
-    # 追記モードで保存（ファイルがなければ作成、あればリストに追加）
+    # 追記モードで保存
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             try:
@@ -221,35 +234,56 @@ if __name__ == "__main__":
     if not all_data:
         exit()
     
-    # 会話履歴を保持するリスト
     history = []
-
-    print("\n🚗 ドライブ・ナビゲーター (会話履歴対応版) 起動しました。")
-    print("例: 「子供と入れるカフェある？」「さっきの店より近いところは？」")
+    print("\n🚗 ドライブ・ナビゲーター (経路検索対応版) 起動しました。")
 
     while True:
         user_input = input("\nYou: ")
         if user_input.lower() in ["q", "exit", "quit"]:
             break
 
-        # 1. 意図解析 (History渡し)
+        # 1. 意図解析
         intent = analyze_user_intent(user_input, history)
         
+        # ★追加: 動的な中心点の決定ロジック
+        # デフォルトは設定ファイルの初期値
+        search_lat = CURRENT_LAT
+        search_lon = CURRENT_LON
+        
+        target_locs = intent.get("locations", [])
+        found_coords = []
+
+        # 抽出された地名をデータから探す
+        for loc_name in target_locs:
+            lat, lon = find_location_center(all_data, loc_name)
+            if lat:
+                found_coords.append((lat, lon))
+                print(f"📍 地点特定: {loc_name} -> ({lat}, {lon})")
+
+        # 地点が見つかった場合、その中間点を新しい検索中心にする
+        if found_coords:
+            avg_lat = sum(c[0] for c in found_coords) / len(found_coords)
+            avg_lon = sum(c[1] for c in found_coords) / len(found_coords)
+            search_lat = avg_lat
+            search_lon = avg_lon
+            print(f"🎯 検索中心を移動しました: {target_locs} の中間地点")
+        else:
+            print(f"📍 検索中心: 北大路駅周辺 (デフォルト)")
+
         # 2. データ検索
         raw_results = search_osm_data(all_data, intent)
         
-        # 3. 整形
-        processed_results = process_data(raw_results)
+        # 3. 整形 (★修正: 動的に決まった search_lat, search_lon を渡す)
+        processed_results = process_data(raw_results, search_lat, search_lon)
+        
         print(f"   (検索キーワード: {intent.get('keywords')} -> {len(processed_results)}件ヒット)")
 
-        # 4. 回答生成 (History渡し)
+        # 4. 回答生成
         response = generate_response(user_input, processed_results, history, intent)
-        
         print(f"\nAI: {response}")
 
-        # ★追加: ログ保存
+        # ログ保存と履歴更新 (★重複を削除しました)
         save_interaction_log(user_input, intent, processed_results, response)
 
-        # 履歴の更新
         history.append({"role": "user", "content": user_input})
         history.append({"role": "assistant", "content": response})
